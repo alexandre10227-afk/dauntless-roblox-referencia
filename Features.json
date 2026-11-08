@@ -1,0 +1,1231 @@
+[
+	{
+		"FriendlyName": "AdventureModeArrivalsFeature",
+		"FeaturePath": "/Script/Archon.AdventureModeArrivalsFeature",
+		"Enabled": true,
+		"Description": "Enable island arrival animations on adventure islands."
+	},
+	{
+		"FriendlyName": "AllowRejoinSessionFeature",
+		"FeaturePath": "/Script/Archon.AllowRejoinSessionFeature",
+		"Enabled": false,
+		"Description": "Allow rejoining to an previous session"
+	},
+	{
+		"FriendlyName": "AOEOverlapNativize",
+		"FeaturePath": "/Script/Archon.AOEOverlapNativize",
+		"Enabled": false,
+		"Category": "Combat",
+		"Description": "Nativized GetPrimitiveOverlapComponent, Filter."
+	},
+	{
+		"FriendlyName": "AOEPrefilter",
+		"FeaturePath": "/Script/Archon.AOEPrefilter",
+		"Enabled": false,
+		"Category": "Combat",
+		"Description": "NativizeAOE."
+	},
+	{
+		"FriendlyName": "ArchonSubtractiveDamage",
+		"FeaturePath": "/Script/Archon.ArchonSubtractiveDamage",
+		"Enabled": true,
+		"Category": "Combat",
+		"Description": "Enable test the new subtractive damage system"
+	},
+	{
+		"FriendlyName": "ArenaMapHuntsFeature",
+		"FeaturePath": "/Script/Archon.ArenaMapHuntsFeature",
+		"Enabled": true,
+		"Category": "Game Play",
+		"Description": "Enable the Trials hunts"
+	},
+	{
+		"FriendlyName": "ArenaModeFeature",
+		"FeaturePath": "/Script/Archon.ArenaModeFeature",
+		"Enabled": true,
+		"Category": "Game Play",
+		"Description": "Enable the Arena Mode"
+	},
+	{
+		"FriendlyName": "base_interaction_component_bpff",
+		"FeaturePath": "/Game/Features/base_interaction_component_bpff.base_interaction_component_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "BountySystemFeature",
+		"FeaturePath": "/Script/Archon.BountySystemFeature",
+		"Enabled": true,
+		"Category": "Game Play",
+		"Description": "Enable the Bounty System"
+	},
+	{
+		"FriendlyName": "BowWeaponFeature",
+		"FeaturePath": "/Script/Archon.BowWeaponFeature",
+		"Enabled": false,
+		"Category": "Combat",
+		"Description": "Enable the bow weapon."
+	},
+	{
+		"FriendlyName": "BreadcrumbingFeature",
+		"FeaturePath": "/Script/Archon.BreadcrumbingFeature",
+		"Enabled": true,
+		"Description": "Enable the Breadcrumbing Feature"
+	},
+	{
+		"FriendlyName": "CameraLockOnAutoAimFeature",
+		"FeaturePath": "/Script/Archon.CameraLockOnAutoAimFeature",
+		"Enabled": false,
+		"Category": "Camera",
+		"Description": "Enable Lock On Camera to automatically select part to target",
+		"PerBranchSettings":
+		{
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "CameraLockOnFeature",
+		"FeaturePath": "/Script/Archon.CameraLockOnFeature",
+		"Enabled": false,
+		"Category": "Camera",
+		"Description": "Enable Lock On Camera.",
+		"PerBranchSettings":
+		{
+			"mainline": false
+		}
+	},
+	{
+		"FriendlyName": "CameraLockOnInputSwapFeature",
+		"FeaturePath": "/Script/Archon.CameraLockOnInputSwapFeature",
+		"Enabled": false,
+		"Category": "Camera",
+		"Description": "Swap Lock On Camera input gamepad L3/R3"
+	},
+	{
+		"FriendlyName": "CameraPullbackFeature",
+		"FeaturePath": "/Script/Archon.CameraPullbackFeature",
+		"Enabled": false,
+		"Category": "Camera",
+		"Description": "Enable camera pullback when close to behemoth",
+		"PerBranchSettings":
+		{
+			"mainline": false
+		}
+	},
+	{
+		"FriendlyName": "city_event_dark_harvest_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/city_event_dark_harvest_bpff.city_event_dark_harvest_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "city_event_SaintsBond_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/city_event_SaintsBond_bpff.city_event_SaintsBond_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "City_Hidden_Level_On_bpff",
+		"FeaturePath": "/Game/Features/City_Hidden_Level_On_bpff.City_Hidden_Level_On_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "ClientAuthoritativeDamageFeature",
+		"FeaturePath": "/Script/Archon.ClientAuthoritativeDamageFeature",
+		"Enabled": true,
+		"Category": "Combat",
+		"Description": "Lets the client decide whether or not it was hit by any given attack."
+	},
+	{
+		"FriendlyName": "CombatDemoFeature",
+		"FeaturePath": "/Script/Archon.CombatDemoFeature",
+		"Enabled": false,
+		"Category": "Demo",
+		"Description": "Boot into combat demo mode"
+	},
+	{
+		"FriendlyName": "CommunityChallengesFeature",
+		"FeaturePath": "/Script/Archon.CommunityChallengesFeature",
+		"Enabled": true,
+		"Category": "Game Play",
+		"Description": "Makes all players get the same daily/weekly challenges"
+	},
+	{
+		"FriendlyName": "CoreOpenerFeature",
+		"FeaturePath": "/Script/Archon.CoreOpenerFeature",
+		"Enabled": true,
+		"Description": "Enables/disables the new Core Opener feature."
+	},
+	{
+		"FriendlyName": "CraftingListReworkFeature",
+		"FeaturePath": "/Script/Archon.CraftingListReworkFeature",
+		"Enabled": true,
+		"Category": "Crafting",
+		"Description": "Enables Crafting List Rework Features (Changes in the list of crafting screens for weapons, armors, etc)"
+	},
+	{
+		"FriendlyName": "CraftingReworkFeature",
+		"FeaturePath": "/Script/Archon.CraftingReworkFeature",
+		"Enabled": true,
+		"Category": "Crafting",
+		"Description": "Enables Crafting Rework Features (Changes in crafting screens for weapons, armors, etc)"
+	},
+	{
+		"FriendlyName": "CuriositiesFeature",
+		"FeaturePath": "/Script/Archon.CuriositiesFeature",
+		"Enabled": true,
+		"Description": "Enable the curiosities"
+	},
+	{
+		"FriendlyName": "DisableHighFrequencyDebugPacketsFeature",
+		"FeaturePath": "/Script/Archon.DisableHighFrequencyDebugPacketsFeature",
+		"Enabled": false,
+		"Category": "Debug",
+		"Description": "Disables certain replicated actors and RPCs that are sent at high frequency in non-shipping builds.  Useful to get more accurate network profiles.",
+		"PerConfigurationSettings":
+		{
+			"Shipping": true
+		}
+	},
+	{
+		"FriendlyName": "DisableMuteBackgroundAudioFeature",
+		"FeaturePath": "/Script/Archon.DisableMuteBackgroundAudioFeature",
+		"Enabled": false,
+		"Description": "Disable Mute Background Audio"
+	},
+	{
+		"FriendlyName": "DisableVOIPHuntChannelFeature",
+		"FeaturePath": "/Script/Archon.DisableVOIPHuntChannelFeature",
+		"Enabled": true,
+		"Category": "Social",
+		"Description": "This Flag switches VOIP to only use the Party Channel, Solo and Party players will not be placed into a shared Hunt Channel during a hunt, and party players will stay in their Party Channel"
+	},
+	{
+		"FriendlyName": "DisplayMOTDEditor",
+		"FeaturePath": "/Script/Archon.DisplayMOTDEditor",
+		"Enabled": false,
+		"Category": "Editor",
+		"Description": "Enable the ability to view MOTD when using the Editor"
+	},
+	{
+		"FriendlyName": "DisplaySurveyInEditor",
+		"FeaturePath": "/Script/Archon.DisplaySurveyInEditor",
+		"Enabled": false,
+		"Category": "Editor",
+		"Description": "Allow the player survey to display in the editor"
+	},
+	{
+		"FriendlyName": "DyeImprovementsFeature",
+		"FeaturePath": "/Script/Archon.DyeImprovementsFeature",
+		"Enabled": false,
+		"Description": "Allows the user to use the improved dye system."
+	},
+	{
+		"FriendlyName": "EasyAntiCheatClientAuth",
+		"FeaturePath": "/Script/Archon.EasyAntiCheatClientAuth",
+		"Enabled": true,
+		"Description": "Uses Easy Anti-Cheat Client Authentication. https://www.easy.ac/en-us/"
+	},
+	{
+		"FriendlyName": "EasyAntiCheatEventLog",
+		"FeaturePath": "/Script/Archon.EasyAntiCheatEventLog",
+		"Enabled": false,
+		"Description": "Uses Easy Anti-Cheat from Kamu/Epic. https://www.easy.ac/en-us/",
+		"PerConfigurationSettings":
+		{
+			"Shipping": true
+		}
+	},
+	{
+		"FriendlyName": "EasyAntiCheatFeatures",
+		"FeaturePath": "/Script/Archon.EasyAntiCheatFeatures",
+		"Enabled": false,
+		"Description": "Uses Easy Anti-Cheat from Kamu/Epic. https://www.easy.ac/en-us/",
+		"PerConfigurationSettings":
+		{
+			"Shipping": true
+		}
+	},
+	{
+		"FriendlyName": "elemental_health_updated_bpff",
+		"FeaturePath": "/Game/Features/elemental_health_updated_bpff.elemental_health_updated_bpff_C",
+		"Enabled": true
+	},
+	{
+		"FriendlyName": "enable_city_event_frostfall_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/enable_city_event_frostfall_bpff.enable_city_event_frostfall_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"release": false,
+			"mainline": false
+		}
+	},
+	{
+		"FriendlyName": "enable_CR2019_bpff",
+		"FeaturePath": "/Game/Features/enable_CR2019_bpff.enable_CR2019_bpff_C",
+		"Enabled": true
+	},
+	{
+		"FriendlyName": "enable_testquests_bpff",
+		"FeaturePath": "/Game/Features/Development/enable_testquests_bpff.enable_testquests_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "EnableAetherCastersFeature",
+		"FeaturePath": "/Script/Archon.EnableAetherCastersFeature",
+		"Enabled": true,
+		"Category": "Combat",
+		"Description": "Enable the Aether Casters weapon (weapon 7)"
+	},
+	{
+		"FriendlyName": "EnableBackAccessoryFeature",
+		"FeaturePath": "/Script/Archon.EnableBackAccessoryFeature",
+		"Enabled": false,
+		"Description": "Allows access to the back accessory in the loadout",
+		"PerBranchSettings":
+		{
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "EnableCheatActor",
+		"FeaturePath": "/Script/Archon.EnableCheatActor",
+		"Enabled": true,
+		"Category": "Debug",
+		"Description": "Enable the cheat actor. It's never enabled in Shipping builds."
+	},
+	{
+		"FriendlyName": "EnableCraftingScreenImprovementsFeature",
+		"FeaturePath": "/Script/Archon.EnableCraftingScreenImprovementsFeature",
+		"Enabled": true,
+		"Description": "Enable the new Crafting Screen Improvements."
+	},
+	{
+		"FriendlyName": "EnableEpicSocialFeatures",
+		"FeaturePath": "/Script/Archon.EnableEpicSocialFeatures",
+		"Enabled": true,
+		"Category": "Social",
+		"Description": "Uses epic social systems. Requires epic login."
+	},
+	{
+		"FriendlyName": "EnableEscalationBuffItemFeature",
+		"FeaturePath": "/Script/Archon.EnableEscalationBuffItemFeature",
+		"Enabled": true,
+		"Description": "Enables/disables the escalation buff item purchase from the lobby and the talent tree"
+	},
+	{
+		"FriendlyName": "EnableHeadAccessoryFeature",
+		"FeaturePath": "/Script/Archon.EnableHeadAccessoryFeature",
+		"Enabled": true,
+		"Description": "Allows access to the head accessory in the loadout"
+	},
+	{
+		"FriendlyName": "EnableLoadingHintsFeature",
+		"FeaturePath": "/Script/Archon.EnableLoadingHintsFeature",
+		"Enabled": true,
+		"Description": "Enables hints appearing during loading screens for testing purposes."
+	},
+	{
+		"FriendlyName": "EnableNewMessageInboxScreen",
+		"FeaturePath": "/Script/Archon.EnableNewMessageInboxScreen",
+		"Enabled": true,
+		"Description": "Enable the new Message Inbox feature."
+	},
+	{
+		"FriendlyName": "EnableNewMessageInboxScreenGarbageCollection",
+		"FeaturePath": "/Script/Archon.EnableNewMessageInboxScreenGarbageCollection",
+		"Enabled": false,
+		"Description": "Enable force garbage collection in the message inbox screen."
+	},
+	{
+		"FriendlyName": "EnableQuickInlineEmojiFeature",
+		"FeaturePath": "/Script/Archon.EnableQuickInlineEmojiFeature",
+		"Enabled": false,
+		"Category": "Social",
+		"Description": "Enable Quick Inline Emoji"
+	},
+	{
+		"FriendlyName": "EnableQuickTargetFeature",
+		"FeaturePath": "/Script/Archon.EnableQuickTargetFeature",
+		"Enabled": false,
+		"Category": "Combat",
+		"Description": "Enable Quick Target"
+	},
+	{
+		"FriendlyName": "EnableReplayInEscalationFeature",
+		"FeaturePath": "/Script/Archon.EnableReplayInEscalationFeature",
+		"Enabled": false,
+		"Category": "Replay",
+		"Description": "Enable replays to be recorded in escalation",
+		"PerBranchSettings":
+		{
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "EnableReplayInHuntsFeature",
+		"FeaturePath": "/Script/Archon.EnableReplayInHuntsFeature",
+		"Enabled": false,
+		"Category": "Replay",
+		"Description": "Enable replays to be recorded in regular hunts",
+		"PerBranchSettings":
+		{
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "EnableReplayInTrialsFeature",
+		"FeaturePath": "/Script/Archon.EnableReplayInTrialsFeature",
+		"Enabled": true,
+		"Category": "Replay",
+		"Description": "Enable replays to be recorded in trials"
+	},
+	{
+		"FriendlyName": "EndOfHuntTransitionFeature",
+		"FeaturePath": "/Script/Archon.EndOfHuntTransitionFeature",
+		"Enabled": false,
+		"Description": "Enable example end of hunt flow for maunally transitioning back to the city."
+	},
+	{
+		"FriendlyName": "escalation_heroics_bpff",
+		"FeaturePath": "/Game/gamemodes/escalation/escalation_heroics_bpff.escalation_heroics_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"release": false,
+			"mainline": true
+		},
+		"PerEnvironmentSettings":
+		{
+			"cert01": true
+		}
+	},
+	{
+		"FriendlyName": "escalation_season_2_blaze_bpff",
+		"FeaturePath": "/Game/gamemodes/escalation/escalation_season_2_blaze_bpff.escalation_season_2_blaze_bpff_C",
+		"Enabled": true
+	},
+	{
+		"FriendlyName": "escalation_season_3_umbral_bpff",
+		"FeaturePath": "/Game/gamemodes/escalation/escalation_season_3_umbral_bpff.escalation_season_3_umbral_bpff_C",
+		"Enabled": true,
+		"PerBranchSettings":
+		{
+			"release": true,
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "escalation_season_4_terra_bpff",
+		"FeaturePath": "/Game/gamemodes/escalation/escalation_season_4_terra_bpff.escalation_season_4_terra_bpff_C",
+		"Enabled": true,
+		"PerBranchSettings":
+		{
+			"release": true,
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "escalation_season_5_frost_bpff",
+		"FeaturePath": "/Game/gamemodes/escalation/escalation_season_5_frost_bpff.escalation_season_5_frost_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"release": true,
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "EscalationFeature",
+		"FeaturePath": "/Script/Archon.EscalationFeature",
+		"Enabled": true,
+		"Category": "Game Play",
+		"Description": "Enable the escalation game mode"
+	},
+	{
+		"FriendlyName": "EvaluateActionsOnSearchStartFeature",
+		"FeaturePath": "/Script/Archon.EvaluateActionsOnSearchStartFeature",
+		"Enabled": true,
+		"Category": "Combat",
+		"Description": "Only runs the Behavior Tree Service to Evaluate Behemoth Actions at Search Start instead of On Tick"
+	},
+	{
+		"FriendlyName": "ExplorationIslandsFeature",
+		"FeaturePath": "/Script/Archon.ExplorationIslandsFeature",
+		"Enabled": true,
+		"Description": "Enable the Exploration Islands Prototype"
+	},
+	{
+		"FriendlyName": "FactionTalentTreesFeature",
+		"FeaturePath": "/Script/Archon.FactionTalentTreesFeature",
+		"Enabled": true,
+		"Description": "Enable the Factions Talent Trees"
+	},
+	{
+		"FriendlyName": "follow_camera_bpff",
+		"FeaturePath": "/Game/Features/follow_camera_bpff.follow_camera_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "ForceAfterHuntMOTDDisplay",
+		"FeaturePath": "/Script/Archon.ForceAfterHuntMOTDDisplay",
+		"Enabled": true,
+		"Description": "This will force the After Hunt Message of the Dat (MOTD) display, without the consern of the backend service"
+	},
+	{
+		"FriendlyName": "frozen_mashout_bpff",
+		"FeaturePath": "/Game/Features/frozen_mashout_bpff.frozen_mashout_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"release": false,
+			"mainline": false
+		}
+	},
+	{
+		"FriendlyName": "GearCells2Feature",
+		"FeaturePath": "/Script/Archon.GearCells2Feature",
+		"Enabled": false,
+		"Description": "Enable the Gear & Cells 2.0 Features"
+	},
+	{
+		"FriendlyName": "GetArmourAndWeaponFromCatalog",
+		"FeaturePath": "/Script/Archon.GetArmourAndWeaponFromCatalog",
+		"Enabled": false,
+		"Description": "Enable getting armour data and weapon mesh from catalog instead of child blueprints.",
+		"PerBranchSettings":
+		{
+			"mainline": true,
+			"release": true
+		}
+	},
+	{
+		"FriendlyName": "GliderFeature",
+		"FeaturePath": "/Script/Archon.GliderFeature",
+		"Enabled": true,
+		"Category": "Game Play",
+		"Description": "Enables Glider traversal in supported game modes"
+	},
+	{
+		"FriendlyName": "glitter_weapons_bpff",
+		"FeaturePath": "/Game/Features/glitter_weapons_bpff.glitter_weapons_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"LOCALLY_COMPILED": true,
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "hide_debug_hud_bpff",
+		"FeaturePath": "/Game/Features/Development/hide_debug_hud_bpff.hide_debug_hud_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"release": true
+		}
+	},
+	{
+		"FriendlyName": "HideDebugDisplayInfoFeature",
+		"FeaturePath": "/Script/Archon.HideDebugDisplayInfoFeature",
+		"Enabled": false,
+		"Category": "Debug",
+		"Description": "Hide any debug informaiton that appears on the screen"
+	},
+	{
+		"FriendlyName": "hunt_pass_s03_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s03_bpff.hunt_pass_s03_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s04_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s04_bpff.hunt_pass_s04_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s05_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s05_bpff.hunt_pass_s05_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s06b_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s06b_bpff.hunt_pass_s06b_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s07a_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s07a_bpff.hunt_pass_s07a_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "hunt_pass_s07b_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s07b_bpff.hunt_pass_s07b_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s08a_frostfall_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s08a_frostfall_bpff.hunt_pass_s08a_frostfall_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s08b_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s08b_bpff.hunt_pass_s08b_bpff_C",
+		"Enabled": true,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s08b_saints_bond_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s08b_saints_bond_bpff.hunt_pass_s08b_saints_bond_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s09a_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s09a_bpff.hunt_pass_s09a_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s09b_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s09b_bpff.hunt_pass_s09b_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s10a_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s10a_bpff.hunt_pass_s10a_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s10b_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s10b_bpff.hunt_pass_s10b_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s10c_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s10c_bpff.hunt_pass_s10c_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "hunt_pass_s11a_bpff",
+		"FeaturePath": "/Game/Features/HuntPass/hunt_pass_s11a_bpff.hunt_pass_s11a_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "HuntPassAwarenessFeature",
+		"FeaturePath": "/Script/Archon.HuntPassAwarenessFeature",
+		"Enabled": true,
+		"Category": "Game Play",
+		"Description": "Enables/disables the Hunt Pass Awareness System"
+	},
+	{
+		"FriendlyName": "HuntPassFrostfall2018Feature",
+		"FeaturePath": "/Script/Archon.HuntPassFrostfall2018Feature",
+		"Enabled": false,
+		"Category": "Hunt Pass",
+		"Description": "Enable the Hunt Pass Season: Frostfall 2018"
+	},
+	{
+		"FriendlyName": "HuntPassPrestigeFeature",
+		"FeaturePath": "/Script/Archon.HuntPassPrestigeFeature",
+		"Enabled": true,
+		"Category": "Hunt Pass",
+		"Description": "Enables/disables the new Hunt Pass Prestige feature."
+	},
+	{
+		"FriendlyName": "HuntPassSaintsBond2019Feature",
+		"FeaturePath": "/Script/Archon.HuntPassSaintsBond2019Feature",
+		"Enabled": false,
+		"Category": "Season",
+		"Description": "Enable the Hunt Pass Season: Saint's Bond 2019",
+		"PerBranchSettings":
+		{
+			"mainline": false,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "ih_default_weapon_part_q_bpff",
+		"FeaturePath": "/Game/Features/ih_default_weapon_part_q_bpff.ih_default_weapon_part_q_bpff_C",
+		"Enabled": true,
+		"PerBranchSettings":
+		{
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "InboxFeature",
+		"FeaturePath": "/Script/Archon.InboxFeature",
+		"Enabled": true,
+		"Description": "Enable the Inbox Feature",
+		"PerBranchSettings":
+		{
+			"mainline": true,
+			"release": true
+		}
+	},
+	{
+		"FriendlyName": "InventoryVersion2Feature",
+		"FeaturePath": "/Script/Archon.InventoryVersion2Feature",
+		"Enabled": true,
+		"Description": "Enables inventory version 2",
+		"PerBranchSettings":
+		{
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "LevelGatingFeature",
+		"FeaturePath": "/Script/Archon.LevelGatingFeature",
+		"Enabled": true,
+		"Category": "User Interface",
+		"Description": "Enable the level gating"
+	},
+	{
+		"FriendlyName": "LinkedSlayersFeature",
+		"FeaturePath": "/Script/Archon.LinkedSlayersFeature",
+		"Enabled": true,
+		"Category": "Social",
+		"Description": "Enables liked slayers feature"
+	},
+	{
+		"FriendlyName": "lobby_add_friend_bpff",
+		"FeaturePath": "/Game/Features/lobby_add_friend_bpff.lobby_add_friend_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "montage_telemetry_enabled_bpff",
+		"FeaturePath": "/Game/Features/Development/montage_telemetry_enabled_bpff.montage_telemetry_enabled_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "MultiHuntPassFeature",
+		"FeaturePath": "/Script/Archon.MultiHuntPassFeature",
+		"Enabled": true,
+		"Category": "Game Play",
+		"Description": "Unlocks ability to use multiple hunt passes"
+	},
+	{
+		"FriendlyName": "new_health_scaling_bpff",
+		"FeaturePath": "/Game/Features/new_health_scaling_bpff.new_health_scaling_bpff_C",
+		"Enabled": true
+	},
+	{
+		"FriendlyName": "new_potion_drink_bpff",
+		"FeaturePath": "/Game/Features/new_potion_drink_bpff.new_potion_drink_bpff_C",
+		"Enabled": true,
+		"PerBranchSettings":
+		{
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "new_wound_bpff",
+		"FeaturePath": "/Game/Features/new_wound_bpff.new_wound_bpff_C",
+		"Enabled": true,
+		"PerBranchSettings":
+		{
+			"LOCALLY_COMPILED": true,
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "outofcombat_movespeed_bpff",
+		"FeaturePath": "/Game/Features/outofcombat_movespeed_bpff.outofcombat_movespeed_bpff_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": false
+		}
+	},
+	{
+		"FriendlyName": "PartiesV2Feature",
+		"FeaturePath": "/Script/Archon.PartiesV2Feature",
+		"Enabled": true,
+		"Category": "Social",
+		"Description": "Enables a set of improvements to the Parties functionality."
+	},
+	{
+		"FriendlyName": "party_member_markers_bpff",
+		"FeaturePath": "/Game/Features/party_member_markers_bpff.party_member_markers_bpff_C",
+		"Enabled": true
+	},
+	{
+		"FriendlyName": "PartyInviteNotificationsFeature",
+		"FeaturePath": "/Script/Archon.PartyInviteNotificationsFeature",
+		"Enabled": false,
+		"Category": "Social",
+		"Description": "Enables The Customized Party Invite Notifications feature",
+		"PerBranchSettings":
+		{
+			"mainline": true,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "PersonalityBackAccessoryFeature",
+		"FeaturePath": "/Script/Archon.PersonalityBackAccessoryFeature",
+		"Enabled": false,
+		"Description": "Enable Personality UI Screen Back Accessories."
+	},
+	{
+		"FriendlyName": "PersonalityHeadAccessoryFeature",
+		"FeaturePath": "/Script/Archon.PersonalityHeadAccessoryFeature",
+		"Enabled": true,
+		"Description": "Enable Personality UI Screen Head Accessories."
+	},
+	{
+		"FriendlyName": "player_camera_v2_bpff",
+		"FeaturePath": "/Game/Features/player_camera_v2_bpff.player_camera_v2_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "PlayerActionWheelRefactorFeature",
+		"FeaturePath": "/Script/Archon.PlayerActionWheelRefactorFeature",
+		"Enabled": false,
+		"Description": "Enable the New Player Action Wheels",
+		"PerBranchSettings":
+		{
+			"mainline": true,
+			"release": false
+		}
+	},
+	{
+		"FriendlyName": "PlayerDataMigrationFeature",
+		"FeaturePath": "/Script/Archon.PlayerDataMigrationFeature",
+		"Enabled": true,
+		"Description": "Enable the Player data migration feature"
+	},
+	{
+		"FriendlyName": "PortalsFeature",
+		"FeaturePath": "/Script/Archon.PortalsFeature",
+		"Enabled": true,
+		"Description": "Enables/disables the Portals feature."
+	},
+	{
+		"FriendlyName": "preserve_chatmode_between_hunts_bpff",
+		"FeaturePath": "/Game/Features/preserve_chatmode_between_hunts_bpff.preserve_chatmode_between_hunts_bpff_C",
+		"Enabled": true
+	},
+	{
+		"FriendlyName": "pretzel_bpff",
+		"FeaturePath": "/Game/Pretzel/pretzel_bpff.pretzel_bpff_C",
+		"Enabled": true
+	},
+	{
+		"FriendlyName": "PrivateHuntingGroundQueuesFeature",
+		"FeaturePath": "/Script/Archon.PrivateHuntingGroundQueuesFeature",
+		"Enabled": true,
+		"Description": "Enable private queues for hunting grounds"
+	},
+	{
+		"FriendlyName": "ProgressionNetworkOptimizationsFeature",
+		"FeaturePath": "/Script/Archon.ProgressionNetworkOptimizationsFeature",
+		"Enabled": false,
+		"Category": "Performance",
+		"Description": "Enable progression component network optimizations"
+	},
+	{
+		"FriendlyName": "ProgressionReworkFeature",
+		"FeaturePath": "/Script/Archon.ProgressionReworkFeature",
+		"Enabled": true,
+		"Description": "Enables Progression Rework Features (Weapon XP, Player Journey Map, etc.)"
+	},
+	{
+		"FriendlyName": "ProjectilePoolingFeature",
+		"FeaturePath": "/Script/Archon.ProjectilePoolingFeature",
+		"Enabled": true,
+		"Category": "Performance",
+		"Description": "Turn on/off pooling of of projectiles that inherit from projectile_base_bp (true = pooled, false = not pooled), ",
+		"PerBranchSettings":
+		{
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "PublicTestRealmFeature",
+		"FeaturePath": "/Script/Archon.PublicTestRealmFeature",
+		"Enabled": false,
+		"Description": "Enable Public Test Realm content.",
+		"PerEnvironmentSettings":
+		{
+			"cert01": true
+		}
+	},
+	{
+		"FriendlyName": "PurchasesAtVendorFeature",
+		"FeaturePath": "/Script/Archon.PurchasesAtVendorFeature",
+		"Enabled": true,
+		"Description": "Enable purchasing of items for rams at vendors that support it"
+	},
+	{
+		"FriendlyName": "QuestNetworkOptimizationFeature",
+		"FeaturePath": "/Script/Archon.QuestNetworkOptimizationFeature",
+		"Enabled": true,
+		"Category": "Performance",
+		"Description": "Uses Quest System network optimizations."
+	},
+	{
+		"FriendlyName": "radiant_island_feature_bpff",
+		"FeaturePath": "/Game/Features/radiant_island_feature_bpff.radiant_island_feature_bpff_C",
+		"Enabled": false,
+		"Description": "Enable the Radiant Islands Prototype",
+		"PerBranchSettings":
+		{
+			"release": false,
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "RadiantIslandFeature",
+		"FeaturePath": "/Script/Archon.RadiantIslandFeature",
+		"Enabled": true,
+		"Description": "Enable the Radiant Islands Prototype"
+	},
+	{
+		"FriendlyName": "RamsgateReworkFeature",
+		"FeaturePath": "/Script/Archon.RamsgateReworkFeature",
+		"Enabled": true,
+		"Description": "Enable new Ramsgate"
+	},
+	{
+		"FriendlyName": "RebindableRightFaceButtonFeature",
+		"FeaturePath": "/Script/Archon.RebindableRightFaceButtonFeature",
+		"Enabled": false,
+		"Description": "Allows the user to rebind the right face button in the options keybindings screen."
+	},
+	{
+		"FriendlyName": "RefactorBPUpdateAnimationFeature",
+		"FeaturePath": "/Script/Archon.RefactorBPUpdateAnimationFeature",
+		"Enabled": true,
+		"Category": "Performance",
+		"Description": "Turn on/off refactoring of BP Update Animation so that Remotes won't tick the same methods as local or server when not needed"
+	},
+	{
+		"FriendlyName": "ReplicationGraphFeature",
+		"FeaturePath": "/Script/Archon.ReplicationGraphFeature",
+		"Enabled": false,
+		"Category": "Performance",
+		"Description": "Enables/disables the ArchonReplicationGraph class to optimize network replication"
+	},
+	{
+		"FriendlyName": "ReturnToRamsgateFeature",
+		"FeaturePath": "/Script/Archon.ReturnToRamsgateFeature",
+		"Enabled": true,
+		"Description": "Enables the main menu option 'Return To Ramsgate'"
+	},
+	{
+		"FriendlyName": "reward_stinger_bpff",
+		"FeaturePath": "/Game/Features/reward_stinger_bpff.reward_stinger_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "SeasonalStoreFeature",
+		"FeaturePath": "/Script/Archon.SeasonalStoreFeature",
+		"Enabled": true,
+		"Description": "Replace the vault with the new seasonal store"
+	},
+	{
+		"FriendlyName": "ServerInsightsCaptureFeature",
+		"FeaturePath": "/Script/Archon.ServerInsightsCaptureFeature",
+		"Enabled": false,
+		"Category": "Performance",
+		"Description": " Enables an insights capture on the server. "
+	},
+	{
+		"FriendlyName": "ShareBehemothEventCreditFeature",
+		"FeaturePath": "/Script/Archon.ShareBehemothEventCreditFeature",
+		"Enabled": true,
+		"Description": "Enable the ability to share credit of part breaks, staggers, wounds, interrupts"
+	},
+	{
+		"FriendlyName": "ShatteredIslesFeature",
+		"FeaturePath": "/Script/Archon.ShatteredIslesFeature",
+		"Enabled": false,
+		"Description": "Enable the Shattered Isles Prototypes"
+	},
+	{
+		"FriendlyName": "skip_cinematic_feature_bpff",
+		"FeaturePath": "/Game/Features/skip_cinematic_feature_bpff.skip_cinematic_feature_bpff_C",
+		"Enabled": true,
+		"PerBranchSettings":
+		{
+			"release": true,
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "SkippableCinematicSwitchFeature",
+		"FeaturePath": "/Script/Archon.SkippableCinematicSwitchFeature",
+		"Enabled": true,
+		"Category": "Cinematics",
+		"Description": "Turn on/off the the ability to skip cinematics."
+	},
+	{
+		"FriendlyName": "SkyfishingFeature",
+		"FeaturePath": "/Script/Archon.SkyfishingFeature",
+		"Enabled": false,
+		"Category": "Game Play",
+		"Description": "Enable the Skyfishing Feature"
+	},
+	{
+		"FriendlyName": "SlateTestQuest_On",
+		"FeaturePath": "/Game/Features/Development/SlateTestQuest_On.SlateTestQuest_On_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "SlayerInteractionFeature",
+		"FeaturePath": "/Script/Archon.SlayerInteractionFeature",
+		"Enabled": true,
+		"Category": "Social",
+		"Description": "Enable the interaction with other slayers"
+	},
+	{
+		"FriendlyName": "SparkforgeFeature",
+		"FeaturePath": "/Script/Archon.SparkforgeFeature",
+		"Enabled": true,
+		"Description": "Enables/disables the new Sparkforge screen feature."
+	},
+	{
+		"FriendlyName": "SpringEvent2020Feature",
+		"FeaturePath": "/Script/Archon.SpringEvent2020Feature",
+		"Enabled": false,
+		"Category": "Season",
+		"Description": "Enable the Spring Event 2020 content",
+		"PerBranchSettings":
+		{
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "StopReplicatingProgressRanksFeature",
+		"FeaturePath": "/Script/Archon.StopReplicatingProgressRanksFeature",
+		"Enabled": false,
+		"Category": "Performance",
+		"Description": "Stop replicating ProgressRanks from ProgressionComponent feature"
+	},
+	{
+		"FriendlyName": "StoreDownloadImagesFeature",
+		"FeaturePath": "/Script/Archon.StoreDownloadImagesFeature",
+		"Enabled": true,
+		"Description": "Turn on/off the ability to download images for the store"
+	},
+	{
+		"FriendlyName": "SupportACreatorFeature",
+		"FeaturePath": "/Script/Archon.SupportACreatorFeature",
+		"Enabled": true,
+		"Category": "Creators",
+		"Description": "Turn on/off the Support A Creator feature"
+	},
+	{
+		"FriendlyName": "SupportACreatorSwitchFeature",
+		"FeaturePath": "/Script/Archon.SupportACreatorSwitchFeature",
+		"Enabled": true,
+		"Category": "Creators",
+		"Description": "Turn on/off the Support A Creator feature exclusively for the switch"
+	},
+	{
+		"FriendlyName": "test_safezones_bpff",
+		"FeaturePath": "/Game/Features/Development/test_safezones_bpff.test_safezones_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "threat_2020_bpff",
+		"FeaturePath": "/Game/Features/threat_2020_bpff.threat_2020_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "travel_mode_bpff",
+		"FeaturePath": "/Game/Features/travel_mode_bpff.travel_mode_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "TrialsReworkBehemothTuningOverrideFeature",
+		"FeaturePath": "/Script/Archon.TrialsReworkBehemothTuningOverrideFeature",
+		"Enabled": true,
+		"Category": "Trials",
+		"Description": "Enables health tuning override in Trials"
+	},
+	{
+		"FriendlyName": "TrialsReworkBonusStarsFeature",
+		"FeaturePath": "/Script/Archon.TrialsReworkBonusStarsFeature",
+		"Enabled": true,
+		"Category": "Trials",
+		"Description": "Enables Bonus Stars feature in Trials"
+	},
+	{
+		"FriendlyName": "TrialsReworkLeaderboardDummyData",
+		"FeaturePath": "/Script/Archon.TrialsReworkLeaderboardDummyData",
+		"Enabled": false,
+		"Category": "Trials",
+		"Description": "Display dummy data for the new leaderboard in Trials"
+	},
+	{
+		"FriendlyName": "TrialsReworkLeaderboardFeature",
+		"FeaturePath": "/Script/Archon.TrialsReworkLeaderboardFeature",
+		"Enabled": true,
+		"Category": "Trials",
+		"Description": "Enable the new leaderboard for Trials"
+	},
+	{
+		"FriendlyName": "TrialsReworkNormalizedPowerFeature",
+		"FeaturePath": "/Script/Archon.TrialsReworkNormalizedPowerFeature",
+		"Enabled": true,
+		"Category": "Trials",
+		"Description": "Enables normalized power in Trials"
+	},
+	{
+		"FriendlyName": "TrialsTestHuntsFeature",
+		"FeaturePath": "/Script/Archon.TrialsTestHuntsFeature",
+		"Enabled": false,
+		"Category": "Trials",
+		"Description": "Feature Flag to gate new test hunts for Trials",
+		"PerBranchSettings":
+		{
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "TutorialResetMastery",
+		"FeaturePath": "/Game/Features/TutorialResetMastery.TutorialResetMastery_C",
+		"Enabled": false,
+		"PerBranchSettings":
+		{
+			"mainline": true
+		}
+	},
+	{
+		"FriendlyName": "UIJournalFeature",
+		"FeaturePath": "/Script/Archon.UIJournalFeature",
+		"Enabled": true,
+		"Category": "User Interface",
+		"Description": "Feature Flag used to enable/disable the new Journal screen."
+	},
+	{
+		"FriendlyName": "UIMoveListFeature",
+		"FeaturePath": "/Script/Archon.UIMoveListFeature",
+		"Enabled": true,
+		"Category": "User Interface",
+		"Description": "Feature Flag used to enable/disable the new Move-List screen."
+	},
+	{
+		"FriendlyName": "UITextSizeFeature",
+		"FeaturePath": "/Script/Archon.UITextSizeFeature",
+		"Enabled": true,
+		"Category": "User Interface",
+		"Description": "Enables/disables the text size override."
+	},
+	{
+		"FriendlyName": "vendors_come_close_bpff",
+		"FeaturePath": "/Game/Features/Development/vendors_come_close_bpff.vendors_come_close_bpff_C",
+		"Enabled": false
+	},
+	{
+		"FriendlyName": "VIPFeature",
+		"FeaturePath": "/Script/Archon.VIPFeature",
+		"Enabled": true,
+		"Description": "Replace escalation buff with the new VIP boost"
+	},
+	{
+		"FriendlyName": "VisualizeDebugIFramesFeature",
+		"FeaturePath": "/Script/Archon.VisualizeDebugIFramesFeature",
+		"Enabled": false,
+		"Category": "Debug",
+		"Description": "Visualize invulnerability frames and perfect dodges."
+	},
+	{
+		"FriendlyName": "VisualizeIFramesAndPDodgesFeature",
+		"FeaturePath": "/Script/Archon.VisualizeIFramesAndPDodgesFeature",
+		"Enabled": true,
+		"Category": "Debug",
+		"Description": "Visualize invulnerability frames and perfect dodges."
+	},
+	{
+		"FriendlyName": "WallOfChampionsUIFeature",
+		"FeaturePath": "/Script/Archon.WallOfChampionsUIFeature",
+		"Enabled": true,
+		"Category": "User Interface",
+		"Description": "Enables wall of champions"
+	},
+	{
+		"FriendlyName": "WeaponSeparationFeature",
+		"FeaturePath": "/Script/Archon.WeaponSeparationFeature",
+		"Enabled": true,
+		"Category": "Combat",
+		"Description": " Turn on weapon separation code paths for data entry. "
+	}
+]

@@ -1,0 +1,2659 @@
+{
+  "TargetFiles": [
+    {
+      "MD5Chunks": "186f6175d2c27f81d20dbf6c80f271c1245bd8208644d3071854b8dc88f8c317baf9ae2935c4ccc2738d4b4c30d0353dc719c7a88f96f6fb4122287e54b29caf75641b2eadff9da4abc83af34f01a3d25af33bc87a63003457bce531adb301bedc89a08bed027b9054d20fc4b37d48ad5b",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Binaries\\Win64\\Dauntless-Win64-Shipping.exe",
+      "FileSize": 106618992
+    },
+    {
+      "MD5Chunks": "185bfb1bfb9315633cfaa60e2473772745",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Binaries\\Win64\\dbgcore.dll",
+      "FileSize": 166720
+    },
+    {
+      "MD5Chunks": "1860c8228271185b7ccb073db3f4de5949",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Binaries\\Win64\\dbgeng.dll",
+      "FileSize": 6210368
+    },
+    {
+      "MD5Chunks": "18c40c0830ff3a61c564eb13304b6c55c2",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Binaries\\Win64\\dbghelp.dll",
+      "FileSize": 1643840
+    },
+    {
+      "MD5Chunks": "183c108c78758958e078917157338f8889e828dad05def34d10ea3a99e30ac265e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Movies\\Windows\\Logo.mp4",
+      "FileSize": 18411252
+    },
+    {
+      "MD5Chunks": "186c409700aab965c9665e1807686d6df6cee8eb80984c3dc8ef0d5818e3fbcafe476504d894e3ec3be157cae56617e9290b3d434ba229fa041ba797716358f4ed4a8c48cb49c877f6f0170e81b81070b05f1b687e7653d431ccd562f2aba667355058f3c08cf3f659a0e77d0695d17022",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_0-WindowsClient.pak",
+      "FileSize": 115525190
+    },
+    {
+      "MD5Chunks": "182be9195fba621cb0fdb7348704f070c935f14a16353335e77be92fec97d30335c9234d54a0dbbac610de9cba0bacb50204b883e48ba7865a3688dbfebc4662432943cb334c8a84289e091d003baa8c19bd79457d4286bd3c6c8d64e90c52cbd49e60529a5743a35a12f2f321c9e576a51a4a75c3eea1334e7c2e3c8d1222afcbfd4f4618ccc54ffa353910b4c382c134",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_10-WindowsClient.pak",
+      "FileSize": 136590527
+    },
+    {
+      "MD5Chunks": "1894bab9f5a3a3f691d3e477fb81eff808852b4a21932456cf9fb359878edf1c8cc3177e18f76a7d8ae87856fab3fb5340f3a0d27777df6b3fbd8dfee1703ea3d1ef5d7f8c4e7d2821c8df41265539c75dbd8f3eaa227849497ddeebd2156b73d447e94303a1619d23ab5c7336632686f863b0a95d64484f18dc4fc0d3372a4772",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_11-WindowsClient.pak",
+      "FileSize": 123598021
+    },
+    {
+      "MD5Chunks": "18d52f516141857f0f1dd337ac55fca36ea22fb2c11e496efe65a502201f30c76db648d96d0d25845fc298ed75f087eb35b2de53ee196cbdf22637b7219201fb26855887a31c1af4d9bfbbaf34f114055b05ef468dac18a7dbd42549a9622beda566402191781460d464d1e4401b5cb7d7",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_12-WindowsClient.pak",
+      "FileSize": 116735914
+    },
+    {
+      "MD5Chunks": "1872abdc69ca0ff6d4099dcead26d200a357bdb0139f188d2184bd810e84f2772641fe6169f5b01a1776965e15455ccda1c7a19ca44fd62185f385da168567fab9e8003ac2228c7414ec438de7833cac9e637c4454eef2e862e513ef10b840d05e51dc1a0b0df9cfb67b4e215739f3628b0c8feee838772cba95091a881ea48ff9",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_13-WindowsClient.pak",
+      "FileSize": 123086476
+    },
+    {
+      "MD5Chunks": "18ed4c628a3183285b3ebc8db3796c3ca5bc79039aa926d21248a2f64724ab80a391582dc4eb0a8f06bec860c530349954975b84dd39a10fd81c4f022b339ff13ad5ed2a4cb78ab25a1c283fb103d9ad91921e557978a68de98b1c67db02c06cf043983618897d599ce08d46f0bc33f062",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_14-WindowsClient.pak",
+      "FileSize": 110293204
+    },
+    {
+      "MD5Chunks": "181cc568bc7971e734e79921e09f695c4544e407b8b0878db47e8223a8ae423fc893279145d2d27f17f39637b85585cbc0b0c8d3e914aa4edb568c1a9fef984c958426a64fd429017023bdfc76e7636ca2888e00e1c2bb078ed7fc7b44ab148281dff7c5fdd107235784d66156aa5d6f634f6a22a4b351e7ecd13bde8957d6adba",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_15-WindowsClient.pak",
+      "FileSize": 125754642
+    },
+    {
+      "MD5Chunks": "189edaf74870b306906611f4db9befa37f65d07fb8e9a9df247fa4fed66343b2540717833d04dfade585bda61a8aa818680e2748dca96c284db07104291269d72ad265a675a32ffd005d78ce3777176715af48ba303a745d3df5ddad042784702074809796c8393bb22a078bc4a775dd5810db1c3d063381c86228d0c78426db71e9e8a3ec4adb591c9317a14502957ccebce7da273c18cc69fd6d08351d227d15ca5e1ad16a04a86189a01b512f7349cc39b2e48d7624b16eba03eba37b445091e883756255e08c314f345c6e72596c167bfa710ff2a3dbc6570d37c3879a06ae209077804f8bffc4743b75378eb18a64",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_16-WindowsClient.pak",
+      "FileSize": 236649368
+    },
+    {
+      "MD5Chunks": "188a3f2dde3d3bc1c9139848412fbf5668683edc8573a8a4e22bcef18bda0d9b443e945ed1731a1f394b0807ae7d4005db806e8ba0ab312a845d761692efb67dcfe7d985db5e3660e7ba0617cc10f1c42f0dd071e565526a38db59388920c23aede73bc44fb351a32b3644f767c24fb623f6156fc01c479ab22774fee3cf3300e5f07af3308b72f806cd7c8bd75a34c369872f6ceee1bc317303c18b4497724de58202cdd89d205ae97901056a16df5da320c58452fccca66f5e9754f4ebe14ea9844c8808618c97a45757b8559b328329955a037629ae386202dce7fdb87fc1f0",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_17-WindowsClient.pak",
+      "FileSize": 229560420
+    },
+    {
+      "MD5Chunks": "18106385190329933eb0068132ec4bf27af90af8a6c0a66426a15ba18c5d3f190bc068de44103675a5d2fd0cbb1dc7986a962f71f64b1730e3c2de6a2078cd84b713ea0211a32e7e91afe113efbbb209ad6b5186475f3e24f87e738889ba669892aac7134cd9d4493c74292d8e2388d030",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_18-WindowsClient.pak",
+      "FileSize": 116299579
+    },
+    {
+      "MD5Chunks": "18efadc9cf89e9b4e1745347ab3d64ae971714cba3fb5953c05a2772b8a889a6e6155971e3f362ce77c9639be83ba9952830912dfff8551762692e7c25bd2ccd38c6926485bb38e09fbff36ba762f2b36aae39ff7696f91a6cabd4a2fbb27333984cbed5a2f6bd4546be440920b481efa338f895cca1aab168659cb2e9be1fec3d2b99b4b77bb646a7abd2d4519ffd0c78",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_19-WindowsClient.pak",
+      "FileSize": 145084784
+    },
+    {
+      "MD5Chunks": "18e05778c87b86ee703164503377dcc54dc14e66274b18beea1788d7a7f23e437a861e2e6be1c0520f00e68a88b1a05eb17873424fc18dd0ccb3832fbcb178446fcde04512c1cc27d8b09a9909ee205a84fafd11c2e4abaac182c14253bdc84ebd3974fbadd1a58fc45b64d1f1cc52d7f52694163879244c1a96b3f83e9e37853b",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_1-WindowsClient.pak",
+      "FileSize": 121556582
+    },
+    {
+      "MD5Chunks": "1873cba1c5a1ca724dca438ba91ee34db79dce807ab5c91278553349eb87443359bbfbf19b06b3e8bbb88707a024a98e4d06e52841211d4ed9c1dc27801ca03c53044a8e5f0b28f971ab9ebce92123466444fc884da1fd560457a7ef9f3b63d5bb08ec4966d2c6bb897e153aa282a9a4c7eea4b744daece52141f618843eb014b7a54c028b67e904d7d13933046670f9b2358e250c1ef1058ec28dc8aefb8f70371f5448e8e99948de187c86c3c2d4f05e2518f3b5e5f8ef1a2ff80344704ad7b332053f9b4447d894c23fe7a556dffb0cc8e7a2bcb0f56b214cf505be3a6875e1d76671de2956646b6cc28272e5285a01cf9ff820b1269773d072d665cec49891",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_20-WindowsClient.pak",
+      "FileSize": 268352412
+    },
+    {
+      "MD5Chunks": "180486f135a7d37b3b51baa6ec08283f55fab98b8e09cad87f07ac313ccda4a8aeef2113c530c91fe212f294659d5ca2458c151c90d9b81c05a7108eaea5610f33d071f3c7e4dc33f6d327d52b57285f720f35abf84df3b2dbe92b1f7e2bae4d8db9a6e0fde87f961609dded79552accc527387ec57b19d2c0fe219ccee8da78026ed2c23a16ab4a20c025f627a3f186ef196a611490ee9aa9eb07163349483f40ff905a600766f152abffbc1c5fea5bd58f8aaf04fcc87814fc156a4078d058b2",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_21-WindowsClient.pak",
+      "FileSize": 185123831
+    },
+    {
+      "MD5Chunks": "18d58ec1097f2d93148232fdffefb796145b787674f01fafe3b6ba8201c54a79df507c1a81bd6e0e9a7d6dbb58f3ecc5287ad21e8bcf09ec6dd78192032fea9e54eb96708061c172fdfa800694fc42814c604c485482345ca5509709d243ea78559829d78bacd7bd5d3dffa485f91545995d9a35475c247ca6ecfad6fa43e411b0",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_22-WindowsClient.pak",
+      "FileSize": 123042128
+    },
+    {
+      "MD5Chunks": "18249e89c366b6a0b910601d6f8b0048f31309518b6fa58539b3c9c0cb39b2ea983bada01534b2b02bfdb437aec5b8c9bb4a0cf8c0ee1738f91b2c28067aab02fbdec6f1e19534140fe7160783dede783678c71e662788b64c9d60e816f5d3f7a65a474cbb32c4b7c0c968dc24d79e1d59a88a9564bffdd8ea61bb4198c8213e88989acad3489f5ded5da1449799a13137cc9f6bde294a7a66a689765da4d48556",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_23-WindowsClient.pak",
+      "FileSize": 161662552
+    },
+    {
+      "MD5Chunks": "1897fcdfb627002fa1311cc79f72eec48905a85e408dce0d962b096556c1a3c6aa2390a312b61a4bff1776d545b7657893d7536492ea708d1848789b4a1fc77c0994ef4dcadbf9ee1a9a91062e27584d060d888fd819a5b80bafa06b85fbdb9e0f8559f29b6c4a1f74aa13f40d970fbc96aee970c582e40c2706f5b33ec3bc2d39",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_24-WindowsClient.pak",
+      "FileSize": 121391991
+    },
+    {
+      "MD5Chunks": "18a524e6231ee0ce0a34d712e2d73c1e6abc7e0368e20aa66e7d10ad71ffebbac9fb3ee6e5b86ad30841f0a08f548afe3b173de85fc7288f47d30199f64045ff9ee98c4359cb22443b63f7bc5d0779863192c883cb4aa141fafbd0c177a6af53426f3451c2cfce2e17db92e619814efb4cfac3d33dd48894d50e32111afdcb38cdc5f792af005c1635847c3c614286a286",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_25-WindowsClient.pak",
+      "FileSize": 142275473
+    },
+    {
+      "MD5Chunks": "18b80e8510c15f591ffebdefd44ceb926354a47d7e010aca927c6e220eb361469009e8b00bdaa895d3470df3f55193df66cd79997e260f216cacd47e26463ecdd43af024f56c75ef312fca5a0448300b83277c944734c978894a6ae44b123d88f944ba80bba6e5f7e53d994d673d65b23a6c5a6a6c4a9e5deefa97027b76f1ca6d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_26-WindowsClient.pak",
+      "FileSize": 126582150
+    },
+    {
+      "MD5Chunks": "1805becc652a5a59b514ee6a98c43650ad9c9004fd445d21076c57727ca6c3f8815cc974f9b12635b894a8780f6b88b6f7c1bbf9cdf459c524fdc7beb01b53b9f3a9b94dd82fae56a4f45ff7b0c67b0c10c47c61b8e0e7e40201d03d94f46e85098a5d0a96f5eaf76d97baa997bde6b96b",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_27-WindowsClient.pak",
+      "FileSize": 106497367
+    },
+    {
+      "MD5Chunks": "18d4600ea98c0f078cd74182ee46d51d1c209bc1299f96448d569ecdcc4d33b82ffad561f6ba1fbaee8204fe7cd80877eddc992210fb023f62c870e0f569d9b07e41efc8ea41cdf1e26bc23d037163c42e3f401b10a72ea51e1c70d126b25407cd7a505ce6b4882c04dbb00970d350aec654414cd3f08a2b8d009234b84bd0c292",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_28-WindowsClient.pak",
+      "FileSize": 130438368
+    },
+    {
+      "MD5Chunks": "1836db065365cfe2851fbfe4c36c0e3a4d4f186adc846cba9f5f7bbd513ec871960fc2abe89d9c54e4959e30c11e0ed9615b19a9b8e406ff214d046c5a41d026418a414bac66a4b8b9e476c5c9609dfad647f9fe628dd7f81ab6152228285b9f8d8ca68a13f2cd5f5a7baf6ca2c6b5a0ade5c28b443e10997196b0cca78ef3b999",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_29-WindowsClient.pak",
+      "FileSize": 124442906
+    },
+    {
+      "MD5Chunks": "1866fbd11f006d08041948aa153dd661dbb1dddbaa9f49dd8cf04aabe67d77e9a160e366c5064efb7e3eb1c1bd107a142721baf736466f846c13fea10491acaca6578d4225cf482737847eaec008b2480791863a01255f0f6c98d6b719604349b4",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_2-WindowsClient.pak",
+      "FileSize": 84664493
+    },
+    {
+      "MD5Chunks": "1820db506aaf713f9d3a55005a2751effe86f85edd34a283e35deea1f7c95f6f927f1009e04ffc9280c4e27440a7ba0ca4e0e394dc863cebdcd8d79b3a603faed99f951926edadbb8cd9335f687b447728d40b404d33a8903df22a0cffca478c1c3e1018ba5770e7423caae28ed92e7c494d7934662ce69a19c24d7b63c16523d1d198f993997b626b7e5ee417ba2cb6c5",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_30-WindowsClient.pak",
+      "FileSize": 137198168
+    },
+    {
+      "MD5Chunks": "184ee9c0ecd4989595972cab8958be1288ac6d1257f0f9003e07988e27c9da607940ac8b0a33bce47ddecade6b8deafd3e70ba771fdabf96c5bbb4d1521dcd3bedbdcb0091906e410ce6fe3ee5c6a541793ecc56136b07ec462292dcd37a6a2e14349785f88eafa1a89e9f55a0fefe8da329d33aceebcc54d5d8373a2501b63e39",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_31-WindowsClient.pak",
+      "FileSize": 128514622
+    },
+    {
+      "MD5Chunks": "1811bdf7329a7842115c955b9229b618135a585eaea496bd38ea256718cfb817d8b01934a16b5c0a7f4472845e2e1872156fef68944f2dc0a2fcab4bae89dff7c69ae8ad3ab3f20a82f7559baef80d5ef1cacf5a660ddfa5fcf87da94b115edb9992c2fd1a1c841f12f2ba14616a8f5d76e59c5699ad72a45208be6fb6aba9e3717340dbd2c95b72e635c4c5b3b2791f49",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_32-WindowsClient.pak",
+      "FileSize": 144769248
+    },
+    {
+      "MD5Chunks": "18221513f233a070cfca9fc7f17b3927cfb4eec40fbd1687e3259cb784b49a22f2ab2e5ed47df39403bc33cc333f5c55e0dc36b4eba4ef89d328c2cea2c76814d76711e305b2cf5e038d6913d8241c95a13ba1a318ae43ae1c247d51063098101fde72395ae90c70c071855ee01e0a00ca",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_33-WindowsClient.pak",
+      "FileSize": 101084916
+    },
+    {
+      "MD5Chunks": "18681175b056e178d2d0b22571cb6f95de8ec98c3db041f972c344889e3d9dc537d9436a351f96925cdd7099b3e34bc8389616493ae5c4cda281167b2eb37b0d22fe6c8d310bf417ffab08734394ecb49b68030b95229b6ddca9ce927232a4a12c2a03945867cf0937c833208e4ee92730082b013a99a78802f08e8f83d3fd804b9cc7853d91f3cd8258a225e814d4183e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_34-WindowsClient.pak",
+      "FileSize": 141480437
+    },
+    {
+      "MD5Chunks": "18b299a82c4b929dd5c806e1cadf26d8091e4fb6bd9803748cda762305efe0d5cac1130d93b4e0e0dacd3645cc327da3e47d4f313bd7e7d989eddb63e33120f0514a4264b87a523d3684909f94e8ccc1a7145e3c59cedd189420d94cb42e04f21ecfc583f96162442eaf6544f4f9404ba8175a993a7b08d7d3a1d0e85aed8357e7b654fb226dba60e8e88f1e87de642e51a5b9b2844c2fb557020e1739e7d4ace49b7c26bba53f1998b90065792e52b7bd45ec10b0a05623c1e83555e9d2faf292",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_35-WindowsClient.pak",
+      "FileSize": 187934860
+    },
+    {
+      "MD5Chunks": "183b26e8f8249a40427d5b6cef99483ba6a4869d05a3e9da0e8585de289e99670e8d9a698ff53fd7b081af9a91af95e16bbd09e739b2a409af8e022de638de2ae6cb697dfb0943d0db7d90d4d30c615d16cbe535b615e5895cf517d3dd3f92747849cb68345d7562d1cdcccf5b5885d7d9",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_36-WindowsClient.pak",
+      "FileSize": 107726098
+    },
+    {
+      "MD5Chunks": "18e34dbb4c6d27dce815043d5ca8309b3c5e23579d558acdba94d7242bd088fed4d0d6cea3284453156667062c9311bbae2800e2a571338274a67e5f3142dec54cd0a6be8fe8214bce9d890a3ca39af25ae4df425338653a7d88c6fec5586ebf8c7940c6bcbff6cc6589ca71cbacb3e154",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_37-WindowsClient.pak",
+      "FileSize": 117439048
+    },
+    {
+      "MD5Chunks": "18331d90d75db84c5f3f0940323e686f9c199aad54b1249a1e4e8ab27f6ba10ff182265290b6381fb9e0dae409abbd526b97263b1510a23e2c3a7d7fe2f89274d3e63cd0c8ddfb7203c378faaab9a85032332fed064f1acad817a9657cc0b27abe4ac3b5b0e404e432094d6fb0b16d72c812c0d24c5ef29ed98503c6ca6c4cefacce29106717b570e47744141dd1985385",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_38-WindowsClient.pak",
+      "FileSize": 144932175
+    },
+    {
+      "MD5Chunks": "1841f539c766285ea08d59161d2316d90ddf1128068792cd64cd24fbad16e381c366894106d0b4d406b3e609a110b2ead3",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_39-WindowsClient.pak",
+      "FileSize": 44523460
+    },
+    {
+      "MD5Chunks": "18087d363aa4a8ebf6ebc9a198c85ead88f6cb1517223df31e36df81d85b575451bb8322dcc55483c30b5f87c5088c0e228c3d3bd8b82fa84dedb3b86a4e737774b12491b5883de272ef07b6924d65269fa3ec816a2a6b55ea411d6ffaa8725b0304c14dca1d6b7a90bd62e60b389999e4",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_3-WindowsClient.pak",
+      "FileSize": 112150668
+    },
+    {
+      "MD5Chunks": "185b9f9f22326e5ce25a9227b270e76ee0e9aef41727ff8e5af4ce4b7cc7f5aff61da7ab3fffe5e67cf6aa1a727090a64a26d07e37e9d937d0e4860bb9f3a0edd25a85fd2c3253c716048755e7d36d8df2ae52763b9a119d7a810994f21c86bb5fd12ad95c6387fd0ac0269f0864c77511",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_4-WindowsClient.pak",
+      "FileSize": 110045901
+    },
+    {
+      "MD5Chunks": "184d10d4cc057d0a5c2ddc11b99655ddd5ba63da06e6cc1ea0b3ad7ca0737b0f81884ff98affc0f480992d900781a9c0b255873820e9dc6da62b168fb5282519ee9376fd7a444d98a16641908148b9dc5dad53680db4044f3cf7172c8e46fae4e200fa075a20b7a877c101b68bb0dad387407875bb069c01365665c24250389aa8",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_5-WindowsClient.pak",
+      "FileSize": 121925420
+    },
+    {
+      "MD5Chunks": "18d2a3e27766147f0228cd19c8d09ea76f3b87b8f6e92c9c5d0e2548aebbad5f17c022b39cba016df1323c14e437cb5908d17a4e45987311343ebea2d2563dbf80c9076b0fea734c98c061a16ef9755524b2920411af00582f38f2d59bf7d0b01f62fc3b8806350d399b269398fdc110f6",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_6-WindowsClient.pak",
+      "FileSize": 116234930
+    },
+    {
+      "MD5Chunks": "185ac5bdd62a2a6373c9fb50dc5a170b2fdb765c63f92a38147cbd9c8e1dd2aa18c3753e1973462937f439772229ca8ae997f162a7b7204755f2a660182f69eed0beed5df1f0df315c56a88c61f9bed6efa4924e67f15f73d78052270e293fe986d8eaf233ec08644b500f06e026ea5fe6",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_7-WindowsClient.pak",
+      "FileSize": 114279180
+    },
+    {
+      "MD5Chunks": "181ec8a5430f93d7ad1f3b8064945b2762ee18c1690878c57bf41b40ca9a83a35a390d64e4fae26c58d18f1ff9a675e63ebf0e70d763d38ce97f4be1000661dc4b67963217cb80af284850dd9331f6c1fe3263151f3ce466cc996d15214b5e8824dc7218c28ccfced11954dc2065d8a3ce11748a19a79004dace097378f402290f",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_8-WindowsClient.pak",
+      "FileSize": 127413343
+    },
+    {
+      "MD5Chunks": "185672062e893ed8941dafe61d8d575e4de958cad4bc94860f1fc2c0383bcb26f537665b0e9f743fddd3bdc0b061832decc5dfe5e6fb0e75d9726864b10d5f1700c09da6fcb2a60e748287765664869bc51c449d98502b4e3b429d36359effc665d1fcf307e4542d1b872253b1cc870e4c4f33f03359105dcf68d95194b19c248e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_9-WindowsClient.pak",
+      "FileSize": 117495365
+    },
+    {
+      "MD5Chunks": "18a42c3a331ee2cad8830aff016b8f4ad4e76881e1843bd3444056679555d4089be282c5aa8c5a675a35c24ab37c53b9186962ca2d338e8b1a066ee8682086d65f80a7fa6105449fc584dc9fd2972827262c6f599985465edb2efc93bc2f918ab4d531c1de735f3c3498fb7853d27a0af7c38209355dc0e2ffa821a571272971cc",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Architecture_0-WindowsClient.pak",
+      "FileSize": 119618460
+    },
+    {
+      "MD5Chunks": "182fa6f3a1dbd4d9e262c21e76da2e224ba22e3ac2a18a81f451e6ecbeb4c30b14be09e83272d37cea1f77193a27bb9932e459ac9253a220dfe15be634c08d404dbd328837acc880afa1438eced1c1b5caa13c66cf98c9d08d4d2c9f2c8426af1261d9a503af2a7444b9b3c2dc1641a21b",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Architecture_1-WindowsClient.pak",
+      "FileSize": 114524967
+    },
+    {
+      "MD5Chunks": "181eff114df59639b4e457c94ea8507eb50a5bda56e7f490b7a069947d0c05e42f0d096614547373e4946ead862d5b9bb0330042765d8f9757f7e3591deeeea55be14a220693c8042a58bfa536cb3030daf15ef13c21cf9ebda593115db8b6db3ef84a7edbe8f15da3d493b6f1ff48890bd6822f38cb94face17fad1a8d5003b99af5afac61c509273bfa6e82e25480e0a",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Architecture_2-WindowsClient.pak",
+      "FileSize": 136778997
+    },
+    {
+      "MD5Chunks": "1887f6c99ef094040a163d9468bcd19a6e0ef41088c2cb796d536349dfbb418c764c82d397cf96c27d47afd7494afbb41993383730c341950f4c2f27d2c5385e4294da4c8f15cfb476707f18e4676f12a4dcbb6563c31b0bde6db35376d9a3e2cc1c90b6d00bdd7d58f04568f7afe08e5217055a5456e13128945aeaa1878d478d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Architecture_3-WindowsClient.pak",
+      "FileSize": 118776395
+    },
+    {
+      "MD5Chunks": "18ed3bb1694684c3a481d4c7283c2eee58ad4747063918a137882d35809e63deddf9b9d80d78f2704a7dd7db2074e421d3135fa7e755c2ccdb6bd16b4f2d8f54eba582d480f14c7d13bb61af90f8e160394a07f5d02c7841fd3b6b9c16e717d8be",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Architecture_4-WindowsClient.pak",
+      "FileSize": 89145142
+    },
+    {
+      "MD5Chunks": "18ad41b1b84c1c33205eac8cb46aae33d76c7dd4faf22051f67b8be657f83aa33a9bda4e75d1cb9bb32388ef85dc3ee23ad3cea3ec4d102abaada4af2bb496956034292552baeb19d8678c2a230ef96407979c46be32eee24f2ecd130779dd03a796f2ee855daa9c6de52281a7f470153f1b250032c31086727e4a900668d00602b01afeb9a38adf4019168238dabe5848",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourA_0-WindowsClient.pak",
+      "FileSize": 141198209
+    },
+    {
+      "MD5Chunks": "18336c3c8cd61da8350565a131197ea5cd81fe774b5a72e9e33a4e6a4d92603ebac0d79ab0f145b87a01c5d2e349c29ca9ecbda14d6bd7024fdd70fa30b4e3a6dc69e00c66278d80d0149b184cc4d5d37f9fc1a50466ec0d2934de45055efe287ed527c0af8ef579552e0cef59cf9f1e7765e15f5ff70f069e595ca775e913ab65",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourA_1-WindowsClient.pak",
+      "FileSize": 127605723
+    },
+    {
+      "MD5Chunks": "18c950560ab30da2943af460f290f448ac6da04df5c4f9ea0d31d42accb4bfc7aef7f32949e574e4d4096928b0a16c9c7c95665c9019e665dc49df28831393205b980dd9321d6e54571d5438b103ca6fe9ca3870cfaf4044909b17e4c703221556bd5ec0c9b23a0cb5b6d02ca21982acbc3dd221e28bafd90b9822c402eaffc325996dd2b8c3f7b8b3af44b46a86f68351",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourA_2-WindowsClient.pak",
+      "FileSize": 135399989
+    },
+    {
+      "MD5Chunks": "184e3717ac12ecfd250f0634d2945600d2b38725a105c95ff213311f93ed5717b817a28e47555df65295babce8faec5bf4cbf80b0955cf9fd1095f1c3fb069d8c963a764afe226de4a070dc05f1b9354716c6625a6259477a42ec24349065975851be9dcd424e199070420dc7383b8b6f05b1de484641e12e65229b3ff77b06d457a89ab9ecddfe2a7d61227459ada50fd",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourA_3-WindowsClient.pak",
+      "FileSize": 143056117
+    },
+    {
+      "MD5Chunks": "186b78b83b2f1c5771360497bc6e9d3607cea1c77e5aa0bbdcaab5c370943cdfbd4ed4b1b762c7a5073f34b3b81930224684e56b9c53af248a5382d62a0b02fc87",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourA_4-WindowsClient.pak",
+      "FileSize": 57946710
+    },
+    {
+      "MD5Chunks": "18c0e506b308456a19bf27caa048587f8a254a1f5fe7ca65f7ba73038f9db597ea755fc234ad38a80319adf26556ad51edac1ca89bd633c3d17793a7089bbf4af6016b3959bee07704863ae30572cd807f3750ed7bd81bb8a77f29d937f322f6d9feaa9b5c2cbe734c02a8f5f59a21cc4d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourB_0-WindowsClient.pak",
+      "FileSize": 112767893
+    },
+    {
+      "MD5Chunks": "188a46247347f1f83eed4ae472414c75e457964fd472e562cbd5c3bbc923f10700ffa329c3c6da953ba569c2e1eac168b9e7ebba21a54135d12349a28bf1573392f219962414f0fbd0298328e934e9a34cf48c4fb8426656d8357ece6fe0e443d62e3f0ffd17ebb54079d67e3976c2054cefced49d68685461719646458c7cdced",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_0-WindowsClient.pak",
+      "FileSize": 132183981
+    },
+    {
+      "MD5Chunks": "18ebd4462c900d4b4ff91f042e10e4ed237c351a996b453ecf96da1513f4dd689e052a077391e83ecd0db5979552c300bb4806e7247c5043ac1ac7f041e7bd8cf9c732c5d815b06f72ec58d8074cabf64bb5f2b78818377666204a4f894e3fbc4c90b7b9f2dfdce862c5a6f0d1ef36a1f95f05fac7fa1fcf0f64cd5d9901d39680c267fde5592f1537635678d41d19821b",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_10-WindowsClient.pak",
+      "FileSize": 138786379
+    },
+    {
+      "MD5Chunks": "1859f6a0d1e34a59bf410f46bb8af6d91bd2f40a933ff05ef85a846d890df5554105e7306828f8c92735c316de4a914a87fe8483a4d61c54e4b01aeab5322172a427e10bf01d2a9f6ea491885824b7c5ce8895561714478fbfa89f02cb4c10b0ddcee09415ccf1cd0e550482b5e5c5a5eb29c81575dec48ead789b48ca487ed2e2dc7c9a2e3095960e2cdba09d41adb1b6cf2bf71d06db1174d9c5c2976b58f015",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_11-WindowsClient.pak",
+      "FileSize": 156337849
+    },
+    {
+      "MD5Chunks": "18e2b9d167ea6d7760de87451af9d407f0728a9045297392d8821898130a22d8b163830553e7adb1303295eef9b6df9d063bcc7568b11a3e6d2abbfd9f107aa4e2",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_12-WindowsClient.pak",
+      "FileSize": 62411750
+    },
+    {
+      "MD5Chunks": "18f21b25b2d3b447ea6ca0d1d56cb32b18a5f41c9c24c72af1af776d9a35af340939b154d806e58ed1c501667ba86f1263baf0ff028831ff2a5f3b96f682bc6a4a081f727ddb98439603dcbaf6c5d07c6093429600473f563f8124be13a2f0d31080819d9c0ea35ced047ec9994f10f15eef53e9c5bee020d377eb8057071541a1d3cdeaa9091d098ce2cfafa372462204",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_1-WindowsClient.pak",
+      "FileSize": 144642100
+    },
+    {
+      "MD5Chunks": "18f9df3f69194dc7765af530f00f426f009c678b1fee8df6cf5971e3860209c116f9049997763289681e8e70ca70d92a63e6f35afed966c45553c93e39a65c78e6d33e3b672372d0a1541400f5c14d758a43ee1f363a283e99440cf564f4953612d0ef1bda1616ffdcd03f136d4cf13bc7c6671121e98d1b8294ed918fbab25cb01e2bd438a6302aa9893fc9c49c48cc5f0fc69bf9d8f4145f7034e35d6b20ea0e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_2-WindowsClient.pak",
+      "FileSize": 156343892
+    },
+    {
+      "MD5Chunks": "18764594171d3bbeee71715df256e5b3153bba4dc840219bde266488bc40e1fc6bf3d114f1b2746233104b8dac6114aa9750c5bd584662c9d8784871ab8185f630516ed83d168512e5a4d35faee066331d28e33da99ddad15c78321d5e0b7d5d4dce98bc560a1567c25c7f67f00186a2b1e726330ed068365b1552ebbf308540d7b49aaca8ce63be15637f520e754d2d5a",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_3-WindowsClient.pak",
+      "FileSize": 148485635
+    },
+    {
+      "MD5Chunks": "1835f305a9bc62c358d72722c2f5cef94e7faeb5303cdb71c630c0628094077690b40aa3ec9e62de1d0d3a9718d079a9ee1782a77733454cd52500df17176a3f67742dccdf0a2c186165ed41aa2a152fcb79b393332ff51650f41d20add16f31aaed89b8e6d6cc95f516051e1bac724ea449a6b46830063a1e2aac88eee16808be749229bb0033d9c25d87558bb50ea804",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_4-WindowsClient.pak",
+      "FileSize": 135416038
+    },
+    {
+      "MD5Chunks": "18848a9656086e3d44c9e02b72251288c4dfc887d8c80bf51893277101b9d4070baecf5fed1891160dab640ddb10060fc7ccf7fe47121657251896c111386897e34d3558a7bbbde82a92935436d88dd24c6069c1e5cef2fac65b0112c547a4e5bbbb50cca80f47d0b74c8f71badee04e78a07dfe19e00f76b8ac86e3b9b263b535639220923e3d8930f1218a1813cf258a",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_5-WindowsClient.pak",
+      "FileSize": 139710259
+    },
+    {
+      "MD5Chunks": "181077f06958bd3989d5710ebdc6a969ce052d9d07341c89b3572ed50b2d0181c1aaf6249846f96fe79fc03ed936818fb67b4405fdbd7da465b345467d729b026447e6575e29ce40929d87f0fd14018c578bbaafadca37356a1ea36b0eb912046bf1d752ed79d0d7e124b38bc3dc0f62800e383a96eec784f9a60c36f2f0838546242b0f174bfcfbc808fdcd475ce98cb0",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_6-WindowsClient.pak",
+      "FileSize": 142164883
+    },
+    {
+      "MD5Chunks": "182b22f655429903e12a6f2d1fb989ed6afae27481c89842fb583208f8f6bcf964d3d3d9d049a84b3dbbb2781e293ae7c8dfafe3a08a3a9c6feac431158ea1b3070b7ece569bffc33c9da7a73047d8228241854df61faea00491f548b93a8d0a39d07910efdf55d14d3f5a2f89514acba1526d4e04062814f48152e92005a785c9",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_7-WindowsClient.pak",
+      "FileSize": 132859002
+    },
+    {
+      "MD5Chunks": "187010109aaa0d1eaddd49d6f6df2f350694c77a62649228ef6171a23e938ea3a11782d2b8d75bc8f89f9234231393dd90ee4d181c8386d69e3222cb4e8e0986497e675650b89309388c8fc0b5bf7a0995708b492446eb6a82f88c5b3f24001aa806045c145afce285319f4447eeb903bbcc3d6ec24cfd0705aa7d8fd81ca8d0f8",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_8-WindowsClient.pak",
+      "FileSize": 132797285
+    },
+    {
+      "MD5Chunks": "1851604f10522b2d79ccff0e086a043db32ddde737467ba5d3ee5a007b3aa0df2fad162ddcc05b47ffce6f960dd4d52da4c97575084fdd7194a5dfcf3ecaea0fcc0a9555dd1606f1e347fa3babe2cb6c57ab2f3baa480fbf78852fd1b873d68d11a4eaba25a78255a31ed884a472be25bb4bc4925abf7999ec59dd775ff1e4f666ff9bb3562fcb0aa516bc07a04cbefdaf",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_ArmourC_9-WindowsClient.pak",
+      "FileSize": 140969722
+    },
+    {
+      "MD5Chunks": "18fa34fb4f5768ef1987f52b8685ca4ffb54ae83ab8a688badbb3cd1874da8cdbf",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Atmospheres_0-WindowsClient.pak",
+      "FileSize": 23364631
+    },
+    {
+      "MD5Chunks": "189879c84bafda39db33d10643c0daab6ba7fa67072655e528f48adea6dddd8dd1fc0398975be50af9eecfede7c387828b7ac62676d6a8a953da2e15ad595eb2c533fa09f6157feaea26fea7d7fc06b5665ccab86b131b0cc9477c74e5f47f5af02d43add17007cf71a9f42a51bf4bfe71e4e3d9727575202b9b438e17beb51b444935257cb043abaf984f274a456d1e03943d521ef264728e089cf1aacbf319e11c9ac9a1c82b4e9de75805b086f64b8e0c84b7b9fd4151fb7b4185f0b605b5ef5acea18b619e91398194e83e95d276c929abad0972a581d441b83ee7402cb78cf17d8380dd50dc045054a88bc8466ed2525ae91df2bd954ad51e70061d9c1ae5986cb9881ccb65a351fa3189ae017b59",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Audio_0-WindowsClient.pak",
+      "FileSize": 269683986
+    },
+    {
+      "MD5Chunks": "1817dcb6b26c75edb0b5f7c3bbeb7e95e948ced2e3983e37127b146440e803c794cbb9af497a78c8ce15f953ea873d7e3ccbf503c85af1220179bdddbbe7eb75d45c789cf79c132f01913fd41e4b8b8b1030db8b571a2bad9d4bef16d6a91af492f30740fe3a13363cd35b9ba23f8791f7f23743db0c7204a6c99958f789b45598d20579ddc95e3d917ab709fe91fee6a3de26758d533a703086b1c38210730d1d91e73fc616d43bfa9e7114ab3793452966c3ed4bda25b181899018f961ac6838ef57a32bf21ed17cf5e5e3564496c90976932e48a6141d4956aa1779f8ff03d1f791cccb3855ca25824420a75bc35acf02450546a920c8e9319e19211fed09146d45f4121b1c942a52c0c5c3e3d34634",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Audio_1-WindowsClient.pak",
+      "FileSize": 270777560
+    },
+    {
+      "MD5Chunks": "18728bb23fc374a41be939fe6347e1e4c62423f80cb4d7184f48f07b815aad9f634b97aaa40f7685f6da896798a164c2e724df8f60ab0134ffed30ca5c11dc78afe6545c0952f3cb2e93d93116b60b378f0a8eb2c09e19bbb7808ca6a42036d7e2e2b357a4ba057146f582e6511db75da059a2cb731ee0d96e300da373147146b7f474f654cb9b5868f24f901f0bddfa1c31cb62c9fefdb2fb023cba6c186465627eb1aa6031bbd48c212e9c06a9368cc7c74c1cd6f813206f6e6fb86870d98c00c599069e5331dd154d980174906f3bcbb5fbd0852d6b31be234858dc01b03b732927dea1c2ab5456d968b66544dc681585b1598cd4ae91200ccb751e3d1ac233114386fdce1f2e55c68e85ab345e2068",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Audio_2-WindowsClient.pak",
+      "FileSize": 272406310
+    },
+    {
+      "MD5Chunks": "18c965ad95db1e8db8133a90c7633ebd235c4c095ca1a565f6e4c997b16cc25b94cde732c496cb75a52c94ca3cedcb5ee22a4bbf338b9df73d1a3a88049a8f809056b392f5e80d84af8de7be33bffbb1876e46db7a0b9f6e60545f8d4712adb4221a95f96ce531d210d278f2645bfc80de095bf170d42098dd3c57ccd82983acfbee9b5e9fead305bfcdc79586028ad6d8aa0a9447671a358ff8c3da4148c5bf157d003b8a340836359e644210c658046c9a72cea618cde668fd5a3f9d4e0223a7e0c9bd126c0eb94d019648b8a6bc4fbab60fe8f6c44461084b3b41e8a005fce70834fd521fc3a6c13c526c634f86e4ca7503080d7605c823fae3215368454c9c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Audio_3-WindowsClient.pak",
+      "FileSize": 265185809
+    },
+    {
+      "MD5Chunks": "18f1accafbab98dfbf960484dee3c057ed0cdf15f29f78319c6ff6ce992fb020a80ea9fb8412a651af09d6f4f4ba8f6828ed0d54e1f813a7e300bc41617a37a50ff737a8c7b3a4e8b13e463f8cf885d0387277d0e22b31af8649685823d4c59e5ef0878f4930835d0fccc6f2ad0331f6f8c109c1d5eb3395a6ea2e6d16a2b3522a",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Audio_4-WindowsClient.pak",
+      "FileSize": 119557842
+    },
+    {
+      "MD5Chunks": "1873d6e5b4b33e0d516a6254ae4e291526065a65d2b0060959b69de54a9fa361533f2d92e33a36ede12a3ec63c32e3b820f913cd7978b89faee2499e85a4d26005651ee24dd3f0ebfbdee04652fb98f6e4",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Effects_0-WindowsClient.pak",
+      "FileSize": 69885610
+    },
+    {
+      "MD5Chunks": "18f33307660c347899e949f3494cebd2572b5b433472b51b30dd21e85b6e60a018a8b6deeaa2973902f256a4fc063b695f98b79dc4302e7cbcce58870a5c7c8d6647370a2f8e3e96bfdcc4cb4a147bf898",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Effects_1-WindowsClient.pak",
+      "FileSize": 78110389
+    },
+    {
+      "MD5Chunks": "18766df0a4e6229caae9df756cb0810d2e3ffbc63553110b9fe068602877c8ffcf1d086054c417c980c400858b2a98efeba0cf6a98de99810cd7d48686cb2c69730e3c73a54f51982e29b0e9c957104544",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Effects_2-WindowsClient.pak",
+      "FileSize": 73687788
+    },
+    {
+      "MD5Chunks": "18c5801890534572ca7e498a85867cea358a3027ff2c28c9a570bcf228ba6c9447158e4d20f19e663c516e3fac846b3eb2",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Effects_3-WindowsClient.pak",
+      "FileSize": 38310062
+    },
+    {
+      "MD5Chunks": "189134e0b23eaa923f14a73e10d7307302a92e342c0a904214a4d2196427095670",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Engine_0-WindowsClient.pak",
+      "FileSize": 26169718
+    },
+    {
+      "MD5Chunks": "1828bdfdad2413a0e9eceae7e5833c530df862f42ac497d187022dca6235f80fe83c54fccc4d4141e146f506b7c5095ac120b9e458a74a37a6f1b97aa112968150",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Intl_0-WindowsClient.pak",
+      "FileSize": 55067651
+    },
+    {
+      "MD5Chunks": "18902f01f95dc818d2f371f0bb8ebe091f91255663ef93b988e7a125cf0475da1e2ed228d27878022c23ae6d0d885d7221d158f4b88120ed1b5b465d977c4c853438fa4b21c099098112885123ef0501cd",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Landscape_0-WindowsClient.pak",
+      "FileSize": 67946088
+    },
+    {
+      "MD5Chunks": "18daf977f11c9d3c42ded3db2387dae3c6b5e6faf5ca50792d763d29d917ab753a8bbca340557d3d40bcd8e6af3e239f668d3c6c28706f4f6be755c111677f49e64b00a121425883444e8c62518793624c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Maps_0-WindowsClient.pak",
+      "FileSize": 80880267
+    },
+    {
+      "MD5Chunks": "188015b22f972ff67244102f6a4452fa2851b7b9e88409da3d51468d2da1e2dc0d9c86c42183643f42472425331cd9952c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Maps_1-WindowsClient.pak",
+      "FileSize": 45117773
+    },
+    {
+      "MD5Chunks": "180071abefe294066561b8148dab01da8a27766d0e3c84edbe86fa9194b4ef115d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Maps_2-WindowsClient.pak",
+      "FileSize": 27738322
+    },
+    {
+      "MD5Chunks": "182bb74f87ce94236f9811681b4c6e7e94696e6d0ffa549530665c400adee82c7f8d8b9dda2ebffc845c84d7d5807f31472f3c9a0d57849f1497c90f463f530b4c4e572d0eb17f12be2e3ff74ff57bfd3bbe827ba33744733f8297bb32def627a84f1eb184a87f7dbcd39322ec8ed356f8e682a27c3a1ef6e31e0be3e95eb50691406cf74bcb6235698ebfa819b4134b2c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_NPCs_0-WindowsClient.pak",
+      "FileSize": 141405679
+    },
+    {
+      "MD5Chunks": "18ddc4107855f5bb91ee410d22b86b77dd65a275b8a5712866254c505df8a4405e437c214ea17ae665697dd745f2b248819b2ac050ad217ff39a2b6e7537066245e3e6e34ef5ffe73f8521a353ecdefa9030ed21ddf6f280be3d161f5318e7a44b5166485b7ad54963a63996ff5b4f1490ccec7bdecffeea58f08bd6cab0e8ffaeca8c92b9b266c6366bb0ecba4a7bb88a37d2a2c4372bea945a5d126067c94c12",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_NPCs_1-WindowsClient.pak",
+      "FileSize": 152924463
+    },
+    {
+      "MD5Chunks": "18e9b642a02532e02fb2f55e2ee1ac8a5823233933d4e2419aa3f0f48cce575d1f58a8091190e81d226f700eac20bdb5c69e23289b487857442aaa4de30c0544959736befde678c4d6b74557d7a42b0e65",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_NPCs_2-WindowsClient.pak",
+      "FileSize": 80867598
+    },
+    {
+      "MD5Chunks": "18cb21c69be29b6eec232ef5f3727b6ecc",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Player_0-WindowsClient.pak",
+      "FileSize": 16101830
+    },
+    {
+      "MD5Chunks": "18e6218e540f526e28c005919e1e7c67085e4dfc053b9167659a5bd6ebe3b4eb5fe748636344dc69d951f1406a5a9a05663b3228d26b2b3eed88707db64ed9c2457311700d2c41a24716fbc8ab9e385084c4808198307902e059259b123b574acbf3f233f2c68449d634549394707b6cc615f5cde5e8e2b15a256ee9309fbdda52b3f3352934927ecb7d4a6d5b51d35eb5",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Player_1-WindowsClient.pak",
+      "FileSize": 143582691
+    },
+    {
+      "MD5Chunks": "1861c8fa74ffb809b1d7aa390853dc41949a3520951d467f8065eff7ae85e222e77e969ea74c35d3accf6c7298334d09ba5dd0868b759615ff1643557885e061f4",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Player_2-WindowsClient.pak",
+      "FileSize": 54193338
+    },
+    {
+      "MD5Chunks": "182b880c4a85296f17118d6a97cd406398f0c0e157ce331410246b84b6575fa3bf79a038ce8eebe6d6b4e13ba055f61e52174466ef077719ebfc8ff00756d2965ff43855edf60d8efe45fdaaf25931a6b8fca3f3f85445c1e2e84c09858487b8450427a531ad2c01f95cfd3f4e4201f10f0cca1a144ff000d27f810bad765b040a",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Rock_0-WindowsClient.pak",
+      "FileSize": 127543080
+    },
+    {
+      "MD5Chunks": "188bd5d5b6766f5307c5f9d6b8d0c581c4de67709ecd2c13e73d5568dc95c33adaef21c4b8578bcbcc761ee480328ed28ccbf3f0f36cf11b6b2c97a85369d50de7",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Rock_1-WindowsClient.pak",
+      "FileSize": 55069776
+    },
+    {
+      "MD5Chunks": "186c9923130c4bad23521de561a62495ac356f9ba27ecda1c7d96cf950769d204d428c58d05a70fb30ecdc394932f00b69de103eceaf0cab1d32e82b523ed02ee0",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_UI_0-WindowsClient.pak",
+      "FileSize": 55598580
+    },
+    {
+      "MD5Chunks": "181a99f3f00c969b9bbd25acb2a7bfda581b3705407490475672f8013503f168f2575c35767abda964f2d32ded94abf83d1c5e9268e873e04d56b59455fe513546460adc29574dc7f3e7e78d2dd7c0e1d3c4068319ca415d5832427d306c0405ef193602bf149e9f2e023dbe7e714352ab",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_UI_1-WindowsClient.pak",
+      "FileSize": 112111217
+    },
+    {
+      "MD5Chunks": "1877aef5115fb574b541a6f552a4082a82f3c5d28aee7b5d8b1c29180065e8ac0d22775a6cff8c5988e96105230eea87103f582f3bdc5f50f2a2d9b1762987be6112a5c918cf3f7ad9b7078d9a52389a9887891fcae33182c1025f6d78f556ba152809cacbfa96df76a56ce8f8bb17d2843cacd38452116bc888d3cc328eb6096ad6a88128dbb79f554986cffafc5edb12",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_UI_2-WindowsClient.pak",
+      "FileSize": 146951919
+    },
+    {
+      "MD5Chunks": "18da144b9407415ec992c1ebd5e24f7c11564351c910f4e021854703af626a131b55758cfa3c8f0df8981b6435f1746e519a1b8dcee8135ad60fa47f8d174de893159ffd5ff2ab493145915d8d058f49c7",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_UI_3-WindowsClient.pak",
+      "FileSize": 79549894
+    },
+    {
+      "MD5Chunks": "1815bc5678effc944dd1298f4541df96613a92a6181e95a37aa146fbe9fde4f95a6296ce4fb60d586ae359f6b8cac01608b72452474716e6ce3af43df22a3a076dd08c51c269243e11feeaf5ffffcb2e4547915b2dba107a7964ca89503d76385e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_UI_4-WindowsClient.pak",
+      "FileSize": 92397515
+    },
+    {
+      "MD5Chunks": "18352c89e55f7a6e4d16b84c4860848f314c9f736ecf6f7e3c43300f5b9720d67119ddea429412f15577210cd58e553f1961689e70ceb12b499ec7f30ba804bc4c99ad7051279994a2b2773e787329ff70f31b1055a208355e5ebbb09ac7a24e8dc4dff8bf3eea42ba480608ffc646652a7b1e7745688bb450ce1bea182c9fa9a2a41bc74ce156e8fafec967f8d01a5554",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_UI_5-WindowsClient.pak",
+      "FileSize": 142772588
+    },
+    {
+      "MD5Chunks": "1838b0106c3829ea7b7f7339b98968782e7b8327df7ce1142afe391be7fd3b2a37a8a7d79aa9c9f1e8de6248777d169b4cc960fd3073f88ab453cb0a483b37403add99380fc01e60d9b662ffb45c4c4cdf07fd1d22b785c3ef13af4f621a5482f392c555a0a692a61eb1bf79534d3e074591a7ee13f48eddf8c8168a56c82256c7b2b78b49e2142696e12a50f1f96fa077d9eed549625719f2d029e21799adaf3cdd28e820740227c5ddb4f0393a6436c907c640b0dd09af03e385e5b0d217b2b8e0eab200cec5d679b91c17567149b960",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_UI_6-WindowsClient.pak",
+      "FileSize": 217661654
+    },
+    {
+      "MD5Chunks": "18e9530b75c178457b96e168d87833d8aff13c4b4e21d48402c41d072c24a6394ab5e8bfcfe7bd242edea80f50231a472da45512a2bc748a574c5402ee079255c0f2502d25ce2896fd8e46ffea1f7840caf982a47469ad47bc1f89e1df21d23f10b9c89ddbdb7928e387e67e82e8f97c881606f27602131f0466f09784802cc46187f9618729a42014b0c671468d0a1f51a823705ef33f7b7d8917ce8eec92742933411e8ef6479f8225c4b60c425f46776489c0fda153a3270bdf6e569acf756d82d3518cd0e4c52b80b167ba459560ee89d0be168c05c3495fe968b9e6d93155",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_UI_7-WindowsClient.pak",
+      "FileSize": 218714492
+    },
+    {
+      "MD5Chunks": "180074e554de4b0317d5f2e22882ea0bf3",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_UI_8-WindowsClient.pak",
+      "FileSize": 1167521
+    },
+    {
+      "MD5Chunks": "18562d3f839c7ea9362af6ead717566dc9",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\Paks\\Archon_Water_0-WindowsClient.pak",
+      "FileSize": 5989944
+    },
+    {
+      "MD5Chunks": "187855f94e6c5e23137d7b3b0932f09e8b",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Aether_ChromaLink.chroma",
+      "FileSize": 586
+    },
+    {
+      "MD5Chunks": "1871bca04a7b5bfce30b9f36c8dc2d9f0a",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Aether_Headset.chroma",
+      "FileSize": 586
+    },
+    {
+      "MD5Chunks": "18d3b266f9ca0736de6766884c167bc8ba",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Aether_Keyboard.chroma",
+      "FileSize": 12778
+    },
+    {
+      "MD5Chunks": "18c80e26c602e5f95b4816856b60f1633a",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Aether_Keypad.chroma",
+      "FileSize": 12778
+    },
+    {
+      "MD5Chunks": "18715a347a3433bec7d9e4cb2c4fc0bb4b",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Aether_Mouse.chroma",
+      "FileSize": 12778
+    },
+    {
+      "MD5Chunks": "18ab8e0e24e9ce3b8d234cb70990992c30",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Aether_Mousepad.chroma",
+      "FileSize": 1546
+    },
+    {
+      "MD5Chunks": "18cebb7eac258402a1d73c5877d353da6a",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Behemoth_Interrupted_ChromaLink.chroma",
+      "FileSize": 154
+    },
+    {
+      "MD5Chunks": "186483b4b10c4c245db2ed89258d6f21d5",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Behemoth_Interrupted_Headset.chroma",
+      "FileSize": 154
+    },
+    {
+      "MD5Chunks": "18e31f0bf625223def6bc500aa2fc5bdf3",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Behemoth_Interrupted_Keyboard.chroma",
+      "FileSize": 8522
+    },
+    {
+      "MD5Chunks": "1871d3085aa482711e0512f48f3b25c2c1",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Behemoth_Interrupted_Mouse.chroma",
+      "FileSize": 2058
+    },
+    {
+      "MD5Chunks": "1827c40b5e6915b686700af2067cefdbd2",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Behemoth_Interrupted_Mousepad.chroma",
+      "FileSize": 1034
+    },
+    {
+      "MD5Chunks": "18c144f5f16d46eca86665d4bb04aff293",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothDamaged_ChromaLink.chroma",
+      "FileSize": 58
+    },
+    {
+      "MD5Chunks": "185f72c89280d9704679c20eaaf5c9bcb8",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothDamaged_Headset.chroma",
+      "FileSize": 58
+    },
+    {
+      "MD5Chunks": "18bee2dcf0fcdd137c5d9c9e97fa4a1bef",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothDamaged_Keyboard.chroma",
+      "FileSize": 1074
+    },
+    {
+      "MD5Chunks": "18444ce2e2667e5b91e50cfdd04c0624fd",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothDamaged_Keypad.chroma",
+      "FileSize": 178
+    },
+    {
+      "MD5Chunks": "1843e5c6d4b0e2714819023824b0eefd23",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothDamaged_Mouse.chroma",
+      "FileSize": 522
+    },
+    {
+      "MD5Chunks": "1857cc48717ac6a2f1b80ca50ebf1f3a70",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothDamaged_Mousepad.chroma",
+      "FileSize": 138
+    },
+    {
+      "MD5Chunks": "189d63a899a59dc3daa7ae8767898644d5",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothKilled_ChromaLink.chroma",
+      "FileSize": 418
+    },
+    {
+      "MD5Chunks": "18319f47aeb09ce564a614d78db422a26d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothKilled_Headset.chroma",
+      "FileSize": 418
+    },
+    {
+      "MD5Chunks": "18d0ef59dbd502d245141c4ab720f631a5",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothKilled_Keyboard.chroma",
+      "FileSize": 8522
+    },
+    {
+      "MD5Chunks": "184ba8ebae0a845eead1faffbe97ed59d2",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothKilled_Keypad.chroma",
+      "FileSize": 1522
+    },
+    {
+      "MD5Chunks": "182a5a3a217a4861f6e87c6502ee4584d1",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothKilled_Mouse.chroma",
+      "FileSize": 4618
+    },
+    {
+      "MD5Chunks": "18e786348f4e804997897d53b55d80ffe2",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothKilled_Mousepad.chroma",
+      "FileSize": 1098
+    },
+    {
+      "MD5Chunks": "189d63a899a59dc3daa7ae8767898644d5",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothSlain_ChromaLink.chroma",
+      "FileSize": 418
+    },
+    {
+      "MD5Chunks": "18319f47aeb09ce564a614d78db422a26d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothSlain_Headset.chroma",
+      "FileSize": 418
+    },
+    {
+      "MD5Chunks": "18d0ef59dbd502d245141c4ab720f631a5",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothSlain_Keyboard.chroma",
+      "FileSize": 8522
+    },
+    {
+      "MD5Chunks": "184ba8ebae0a845eead1faffbe97ed59d2",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothSlain_Keypad.chroma",
+      "FileSize": 1522
+    },
+    {
+      "MD5Chunks": "182a5a3a217a4861f6e87c6502ee4584d1",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothSlain_Mouse.chroma",
+      "FileSize": 4618
+    },
+    {
+      "MD5Chunks": "18e786348f4e804997897d53b55d80ffe2",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\BehemothSlain_Mousepad.chroma",
+      "FileSize": 1098
+    },
+    {
+      "MD5Chunks": "18c1dffd0942522072b46677684ecc745d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Blaze_ChromaLink.chroma",
+      "FileSize": 610
+    },
+    {
+      "MD5Chunks": "18c639f7616c4c2a2ebf41045aced3e444",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Blaze_Headset.chroma",
+      "FileSize": 610
+    },
+    {
+      "MD5Chunks": "18c206de74e236e5d1646598727aad31e1",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Blaze_Keyboard.chroma",
+      "FileSize": 13310
+    },
+    {
+      "MD5Chunks": "18bd3418b8c8bde09843dde166f5f74c47",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Blaze_Keypad.chroma",
+      "FileSize": 13310
+    },
+    {
+      "MD5Chunks": "18f72645daf4e50ab00acae49d3cde4b87",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Blaze_Mouse.chroma",
+      "FileSize": 13310
+    },
+    {
+      "MD5Chunks": "184b210fae0a65c9aceed9347d0504888e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Blaze_Mousepad.chroma",
+      "FileSize": 1610
+    },
+    {
+      "MD5Chunks": "18f3801d6712ea545287b2c68c420142b6",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_AllyDown_ChromaLink.chroma",
+      "FileSize": 34
+    },
+    {
+      "MD5Chunks": "181f5e154af0b6cc4bc183ce32ecf1408c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_AllyDown_Headset.chroma",
+      "FileSize": 34
+    },
+    {
+      "MD5Chunks": "182e331c3faeb2aac9fce1738d95d8749f",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_AllyDown_Keyboard.chroma",
+      "FileSize": 12778
+    },
+    {
+      "MD5Chunks": "1821f3f4fc5bfcbf5dd2aecab8dcb31b7d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_AllyDown_Mouse.chroma",
+      "FileSize": 266
+    },
+    {
+      "MD5Chunks": "18bc35c6abce171351e066bc067b8bdc7e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_AllyDown_Mousepad.chroma",
+      "FileSize": 74
+    },
+    {
+      "MD5Chunks": "18f3801d6712ea545287b2c68c420142b6",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_LanternReady_ChromaLink.chroma",
+      "FileSize": 34
+    },
+    {
+      "MD5Chunks": "181f5e154af0b6cc4bc183ce32ecf1408c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_LanternReady_Headset.chroma",
+      "FileSize": 34
+    },
+    {
+      "MD5Chunks": "18a1327b4711185ee93ddeeb2c1d801e03",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_LanternReady_Keyboard.chroma",
+      "FileSize": 12778
+    },
+    {
+      "MD5Chunks": "1821f3f4fc5bfcbf5dd2aecab8dcb31b7d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_LanternReady_Mouse.chroma",
+      "FileSize": 266
+    },
+    {
+      "MD5Chunks": "18bc35c6abce171351e066bc067b8bdc7e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_LanternReady_Mousepad.chroma",
+      "FileSize": 74
+    },
+    {
+      "MD5Chunks": "183683599f70ff40ad134dd28df8b9fc73",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_OverdriveReady_ChromaLink.chroma",
+      "FileSize": 1210
+    },
+    {
+      "MD5Chunks": "18a417cfb1cd4d58998aab88c9ec08f84f",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_OverdriveReady_Headset.chroma",
+      "FileSize": 1210
+    },
+    {
+      "MD5Chunks": "18aefa41aceb29443e4c7ce25649c7842f",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_OverdriveReady_Keyboard.chroma",
+      "FileSize": 1606
+    },
+    {
+      "MD5Chunks": "189e93d2587d7151795a4e5a530d083867",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_OverdriveReady_Mouse.chroma",
+      "FileSize": 12810
+    },
+    {
+      "MD5Chunks": "18920de8b6f81e40ad1d325d88abdf9127",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_OverdriveReady_Mousepad.chroma",
+      "FileSize": 3210
+    },
+    {
+      "MD5Chunks": "186d702aa5a0d1ebed4e03667e8c61b822",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_OverdriveUsed_ChromaLink.chroma",
+      "FileSize": 2410
+    },
+    {
+      "MD5Chunks": "182162fbdb4ed0877f3cb7114df1e25e81",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_OverdriveUsed_Headset.chroma",
+      "FileSize": 2410
+    },
+    {
+      "MD5Chunks": "18f1d5e0dd2683e23a7f71e227293ba36e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_OverdriveUsed_Keyboard.chroma",
+      "FileSize": 53210
+    },
+    {
+      "MD5Chunks": "18d1e640db8daf081f9019f1abdb989d6e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_OverdriveUsed_Mouse.chroma",
+      "FileSize": 25610
+    },
+    {
+      "MD5Chunks": "18ad88cb0d7a4fd2e3fe0dd9bf3a2dff26",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CombatStatus_OverdriveUsed_Mousepad.chroma",
+      "FileSize": 6410
+    },
+    {
+      "MD5Chunks": "1868d5603e803bc5bbc943153722bd4da7",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CoreOpen_ChromaLink.chroma",
+      "FileSize": 370
+    },
+    {
+      "MD5Chunks": "1840b594313a696c9ce4199cb029e03596",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CoreOpen_Headset.chroma",
+      "FileSize": 370
+    },
+    {
+      "MD5Chunks": "18340befbac6deb6495ee204b8ed16a014",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CoreOpen_Keyboard.chroma",
+      "FileSize": 7990
+    },
+    {
+      "MD5Chunks": "1858bae6693e8d25f20d73c100dbbb5403",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CoreOpen_Keypad.chroma",
+      "FileSize": 7990
+    },
+    {
+      "MD5Chunks": "18de0d81aa9f1e986774d38b7d384d3996",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CoreOpen_Mouse.chroma",
+      "FileSize": 7990
+    },
+    {
+      "MD5Chunks": "183a07b53f5cb981daf85ac2c784cbaea0",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\CoreOpen_Mousepad.chroma",
+      "FileSize": 970
+    },
+    {
+      "MD5Chunks": "18a498f64759915efd57ab3f83fef7e23c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Craft_ChromaLink.chroma",
+      "FileSize": 418
+    },
+    {
+      "MD5Chunks": "18139b87b48cdaa63e61cf3189a837eb72",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Craft_Headset.chroma",
+      "FileSize": 418
+    },
+    {
+      "MD5Chunks": "183937b849d822e7f0319b9a8161ab1165",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Craft_Keyboard.chroma",
+      "FileSize": 10118
+    },
+    {
+      "MD5Chunks": "18ad6edd6182f330580ef0f4455a67b00f",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Craft_Keypad.chroma",
+      "FileSize": 850
+    },
+    {
+      "MD5Chunks": "183155cfa57180dd3e885ce42e39b6b73e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Craft_Mouse.chroma",
+      "FileSize": 3594
+    },
+    {
+      "MD5Chunks": "185b76737a1bd7cf424b3be3e5843cecba",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Craft_Mousepad.chroma",
+      "FileSize": 1226
+    },
+    {
+      "MD5Chunks": "1892c9e17ac31b8ac27f157371fc2ee384",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DamageTaken_ChromaLink.chroma",
+      "FileSize": 58
+    },
+    {
+      "MD5Chunks": "18b72e6b9423cdb6654c262369d1c5d964",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DamageTaken_Headset.chroma",
+      "FileSize": 58
+    },
+    {
+      "MD5Chunks": "1882e55937455ce63832f03f008df938af",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DamageTaken_Keybaord.chroma",
+      "FileSize": 1074
+    },
+    {
+      "MD5Chunks": "1882e55937455ce63832f03f008df938af",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DamageTaken_Keyboard.chroma",
+      "FileSize": 1074
+    },
+    {
+      "MD5Chunks": "180464b0411f8cd6b13cd3776c7679280e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DamageTaken_Keypad.chroma",
+      "FileSize": 178
+    },
+    {
+      "MD5Chunks": "18ecf08e0445a52951d470538de5db107c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DamageTaken_Mouse.chroma",
+      "FileSize": 522
+    },
+    {
+      "MD5Chunks": "18f2b0ddf3f922ea9b9b07faf746258ac7",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DamageTaken_Mousepad.chroma",
+      "FileSize": 138
+    },
+    {
+      "MD5Chunks": "18385ce93ec2ad43c6fcd24c85dc735f99",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DauntlessBase_ChromaLink.chroma",
+      "FileSize": 2410
+    },
+    {
+      "MD5Chunks": "181908d8f14f893e96279209ddc9a9511c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DauntlessBase_Headset.chroma",
+      "FileSize": 2410
+    },
+    {
+      "MD5Chunks": "18f556877b63b1fe7f7a6060b9236d14de",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DauntlessBase_Keyboard.chroma",
+      "FileSize": 53210
+    },
+    {
+      "MD5Chunks": "1875d471ccc9de1da7e1c38c8d59909177",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DauntlessBase_Keypad.chroma",
+      "FileSize": 8410
+    },
+    {
+      "MD5Chunks": "18240e85b12c6c790162c2196896e9af49",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DauntlessBase_Mouse.chroma",
+      "FileSize": 25610
+    },
+    {
+      "MD5Chunks": "184fae56af4a185a60517714adabf7ff17",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\DauntlessBase_Mousepad.chroma",
+      "FileSize": 6410
+    },
+    {
+      "MD5Chunks": "1817fae0932c224563ad3850ec0111f4a3",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Flare1_ChromaLink.chroma",
+      "FileSize": 490
+    },
+    {
+      "MD5Chunks": "18e6f8bee29de1e195ccd3dd96b0cbd85a",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Flare1_Headset.chroma",
+      "FileSize": 490
+    },
+    {
+      "MD5Chunks": "18ed96f736920d7af52e768c79f7bcc52d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Flare1_Keyboard.chroma",
+      "FileSize": 10650
+    },
+    {
+      "MD5Chunks": "18c9db5a57a7261da1bbdaa930c645d604",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Flare1_Keypad.chroma",
+      "FileSize": 1690
+    },
+    {
+      "MD5Chunks": "18c13a7fa20895d351bb655ee8ed45622b",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Flare1_Mouse.chroma",
+      "FileSize": 5130
+    },
+    {
+      "MD5Chunks": "1813844a1ccc012a15e1216c1dd68b0f7e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Flare1_Mousepad.chroma",
+      "FileSize": 1290
+    },
+    {
+      "MD5Chunks": "18fb242ead6a97a37b32de45deb10e46a3",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Heal_ChromaLink.chroma",
+      "FileSize": 178
+    },
+    {
+      "MD5Chunks": "18c3bc6e2b16a6ac7c59c259642fb68369",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Heal_Headset.chroma",
+      "FileSize": 178
+    },
+    {
+      "MD5Chunks": "18354737943d376992808a3b8bf6a5856c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Heal_Keyboard.chroma",
+      "FileSize": 7990
+    },
+    {
+      "MD5Chunks": "1804b4d26ee00d42fb77fcb8e1a1b12bfc",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Heal_Keypad.chroma",
+      "FileSize": 598
+    },
+    {
+      "MD5Chunks": "18a9e4abfee2bed835183c3c7b83ea7105",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Heal_Mouse.chroma",
+      "FileSize": 1802
+    },
+    {
+      "MD5Chunks": "18623102173aebb7b7ff8bd9fcc495a050",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Heal_Mousepad.chroma",
+      "FileSize": 458
+    },
+    {
+      "MD5Chunks": "18eeefed62e46c54f332ee2ebae971658b",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\ItemPickup_ChromaLink.chroma",
+      "FileSize": 250
+    },
+    {
+      "MD5Chunks": "1862e017d4f8a843ff62f7f7b9fe9a805e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\ItemPickup_Headset.chroma",
+      "FileSize": 250
+    },
+    {
+      "MD5Chunks": "184e30812ab28222ef424852cb05865da6",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\ItemPickup_Keyboard.chroma",
+      "FileSize": 5330
+    },
+    {
+      "MD5Chunks": "189aebf9e1d1a346915ce0c68421267482",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\ItemPickup_Keypad.chroma",
+      "FileSize": 850
+    },
+    {
+      "MD5Chunks": "181ededed8cce85eb7849e5e62f8fd4da6",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\ItemPickup_Mouse.chroma",
+      "FileSize": 2058
+    },
+    {
+      "MD5Chunks": "18904a35b587361a5ea63bd76cfb2107e1",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\ItemPickup_Mousepad.chroma",
+      "FileSize": 586
+    },
+    {
+      "MD5Chunks": "18da4d4a63d2d508bf60458a4cb2a1eb48",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LanternReady_Keyboard.chroma",
+      "FileSize": 1074
+    },
+    {
+      "MD5Chunks": "18cea36cc5edf2617828d9ab1445fbd096",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LanternUsed_ChromaLink.chroma",
+      "FileSize": 706
+    },
+    {
+      "MD5Chunks": "18dce7950285e6ff099bd98a70a776d2f3",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LanternUsed_Headset.chroma",
+      "FileSize": 706
+    },
+    {
+      "MD5Chunks": "18e05b587f7afa62bed9df8018763aaeb2",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LanternUsed_Keyboard.chroma",
+      "FileSize": 15438
+    },
+    {
+      "MD5Chunks": "18934b7fcd3a79b110be8cd99f276b0659",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LanternUsed_Keypad.chroma",
+      "FileSize": 15438
+    },
+    {
+      "MD5Chunks": "18cc2ba5580852fe1834d021c1f0f8ca94",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LanternUsed_Mouse.chroma",
+      "FileSize": 15438
+    },
+    {
+      "MD5Chunks": "18f90b81e347ddb9da96ff0370d17d6076",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LanternUsed_Mousepad.chroma",
+      "FileSize": 1866
+    },
+    {
+      "MD5Chunks": "182ccfa7717192bc2a3f60583422f9ae17",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LowHealth_ChromaLink.chroma",
+      "FileSize": 394
+    },
+    {
+      "MD5Chunks": "180eeae5e52cf6a9a12647c5318e9eef8e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LowHealth_Headset.chroma",
+      "FileSize": 394
+    },
+    {
+      "MD5Chunks": "18634786bffb9f1c0f5b678b36a75f7c3b",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LowHealth_Keyboard.chroma",
+      "FileSize": 7990
+    },
+    {
+      "MD5Chunks": "18d4e65e8ee2e74f974504c642bd4d048c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LowHealth_Keypad.chroma",
+      "FileSize": 1354
+    },
+    {
+      "MD5Chunks": "1889d0aa7bae59329603bbbafe5e3f8537",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LowHealth_Mouse.chroma",
+      "FileSize": 4106
+    },
+    {
+      "MD5Chunks": "1890102109b10ac74980d868caea303faa",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\LowHealth_Mousepad.chroma",
+      "FileSize": 1034
+    },
+    {
+      "MD5Chunks": "18c9c057db519b7495019e3a45fc9ef12c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Misc_BouncyRam_ChromaLink.chroma",
+      "FileSize": 2410
+    },
+    {
+      "MD5Chunks": "18ba727120bb9a96e73ccb9ada69438905",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Misc_BouncyRam_Headset.chroma",
+      "FileSize": 2410
+    },
+    {
+      "MD5Chunks": "184a18ac3878e07de17fd890b9fc8699f1",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Misc_BouncyRam_Keyboard.chroma",
+      "FileSize": 53210
+    },
+    {
+      "MD5Chunks": "187f766c95519149a3a57c6aa82aa580c8",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Misc_BouncyRam_Mouse.chroma",
+      "FileSize": 25610
+    },
+    {
+      "MD5Chunks": "184932d256c42c12fee2fef42c6a8fabba",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Misc_BouncyRam_Mousepad.chroma",
+      "FileSize": 6410
+    },
+    {
+      "MD5Chunks": "189acea13733117ef9bbc9c1c8d39c5bd9",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Corruption_ChromaLink.chroma",
+      "FileSize": 250
+    },
+    {
+      "MD5Chunks": "181eb21a2ed8604aa48984ea05b7996400",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Corruption_Headset.chroma",
+      "FileSize": 250
+    },
+    {
+      "MD5Chunks": "18d792e961d524b77ceb9949f87caba1fb",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Corruption_Keyboard.chroma",
+      "FileSize": 5330
+    },
+    {
+      "MD5Chunks": "1847601d2ee9345dfbe715abab1942dc19",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Corruption_Mouse.chroma",
+      "FileSize": 2570
+    },
+    {
+      "MD5Chunks": "18e99c41828a4b33c941bed6f9dfcad577",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Corruption_Mousepad.chroma",
+      "FileSize": 650
+    },
+    {
+      "MD5Chunks": "18d013cb68de1bd618a724a06c0aa3b373",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Entangled_ChromaLink.chroma",
+      "FileSize": 1210
+    },
+    {
+      "MD5Chunks": "189a191d2d2e5634c339a4c3e859c70ff3",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Entangled_Headset.chroma",
+      "FileSize": 1210
+    },
+    {
+      "MD5Chunks": "183f3d540727347916bf013c1418a2cd85",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Entangled_Keyboard.chroma",
+      "FileSize": 39910
+    },
+    {
+      "MD5Chunks": "182106d33ff45de33c35d15cebb6ec5109",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Entangled_Mouse.chroma",
+      "FileSize": 12810
+    },
+    {
+      "MD5Chunks": "18686bff0cd17c5c3ec3c9821666b9852b",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Entangled_Mousepad.chroma",
+      "FileSize": 3210
+    },
+    {
+      "MD5Chunks": "18808a74b6f60a7397d11c53822935aeb5",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Frozen_ChromaLink.chroma",
+      "FileSize": 634
+    },
+    {
+      "MD5Chunks": "182f21de93aed693871cf7edca64792698",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Frozen_Headset.chroma",
+      "FileSize": 634
+    },
+    {
+      "MD5Chunks": "18bf7fb5e99492c1b6cb2963e6ad507387",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Frozen_Keyboard.chroma",
+      "FileSize": 13842
+    },
+    {
+      "MD5Chunks": "189a9969b72d7070ebebca2f222ee17c0f",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Frozen_Mouse.chroma",
+      "FileSize": 6666
+    },
+    {
+      "MD5Chunks": "18518df671deadeb025984328823032f97",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Frozen_Mousepad.chroma",
+      "FileSize": 1674
+    },
+    {
+      "MD5Chunks": "18d68a61f60811619adb002ef86c4a6454",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_LowHealth_ChromaLink.chroma",
+      "FileSize": 1210
+    },
+    {
+      "MD5Chunks": "184f3bc8c3868bd48b890a27b68f12e0ec",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_LowHealth_Headset.chroma",
+      "FileSize": 1210
+    },
+    {
+      "MD5Chunks": "18a199109adf5e3b07a2cc7a404234e4eb",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_LowHealth_Keyboard.chroma",
+      "FileSize": 26610
+    },
+    {
+      "MD5Chunks": "18b7e400632da62a35cd413548bc58412d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_LowHealth_Mouse.chroma",
+      "FileSize": 12810
+    },
+    {
+      "MD5Chunks": "1887d4b8770a5440bcad172aafbeccbd3b",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_LowHealth_Mousepad.chroma",
+      "FileSize": 3210
+    },
+    {
+      "MD5Chunks": "18d93f57062b4a269bda7fbcfe618edcf2",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_OnFire_ChromaLink.chroma",
+      "FileSize": 2410
+    },
+    {
+      "MD5Chunks": "181177cc059641351479b1ebddebc48744",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_OnFire_Headset.chroma",
+      "FileSize": 2410
+    },
+    {
+      "MD5Chunks": "184a1201203487052710d3f18fa538c363",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_OnFire_Keyboard.chroma",
+      "FileSize": 53210
+    },
+    {
+      "MD5Chunks": "183f7a29ca34784aeea9fd4ef27e615037",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_OnFire_Mouse.chroma",
+      "FileSize": 25610
+    },
+    {
+      "MD5Chunks": "18f8630628c1e3b584909a36b47ed785b7",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_OnFire_Mousepad.chroma",
+      "FileSize": 6410
+    },
+    {
+      "MD5Chunks": "18a4220e27c6af20cd1c2325325f1f19ce",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Shellshocked_ChromaLink.chroma",
+      "FileSize": 970
+    },
+    {
+      "MD5Chunks": "18f4b8d86013bdec321e1e2131092f64e9",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Shellshocked_Headset.chroma",
+      "FileSize": 970
+    },
+    {
+      "MD5Chunks": "18cde4d4ad888ddfbea9d6b33260eeb65c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Shellshocked_Keyboard.chroma",
+      "FileSize": 53210
+    },
+    {
+      "MD5Chunks": "1897376466998925da42ac2fff494b7ac3",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Shellshocked_Mouse.chroma",
+      "FileSize": 10250
+    },
+    {
+      "MD5Chunks": "18ffd36c19bf1567f9855ea9995cd96780",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Shellshocked_Mousepad.chroma",
+      "FileSize": 2570
+    },
+    {
+      "MD5Chunks": "182f08862f0e88af821a642de75806b119",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Wounded_ChromaLink.chroma",
+      "FileSize": 154
+    },
+    {
+      "MD5Chunks": "187b7850ddd633afedc25c0f4f5a76a29f",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Wounded_Headset.chroma",
+      "FileSize": 154
+    },
+    {
+      "MD5Chunks": "1805967cb11f91cd7095f3160e8fbd6b75",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Wounded_Keyboard.chroma",
+      "FileSize": 3202
+    },
+    {
+      "MD5Chunks": "1805d15af548f969b30e79cff6efa7f5f0",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Wounded_Mouse.chroma",
+      "FileSize": 1546
+    },
+    {
+      "MD5Chunks": "186edb4ef462ad92b675cd9a3d5ed898d6",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\PlayerStatus_Wounded_Mousepad.chroma",
+      "FileSize": 394
+    },
+    {
+      "MD5Chunks": "18ce133198c48d23c9b873348ed495247e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Revive_Keyboard.chroma",
+      "FileSize": 542
+    },
+    {
+      "MD5Chunks": "18a8ddf9c7aa386e26bbc96a909991bd4e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_MurderPalace_ChromaLink.chroma",
+      "FileSize": 970
+    },
+    {
+      "MD5Chunks": "18999576d7a26146bf16c51dd058e6f096",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_MurderPalace_Headset.chroma",
+      "FileSize": 970
+    },
+    {
+      "MD5Chunks": "188835085d8bae1e47f3d48afb25ff0900",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_MurderPalace_Keyboard.chroma",
+      "FileSize": 22354
+    },
+    {
+      "MD5Chunks": "189aed637e16e4c0c7cf3f6d6d421356f7",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_MurderPalace_Mouse.chroma",
+      "FileSize": 10250
+    },
+    {
+      "MD5Chunks": "1819946a4c1bbb20b5cef9a46311226308",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_MurderPalace_Mousepad.chroma",
+      "FileSize": 2570
+    },
+    {
+      "MD5Chunks": "18a8ddf9c7aa386e26bbc96a909991bd4e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_Shroud_ChromaLink.chroma",
+      "FileSize": 970
+    },
+    {
+      "MD5Chunks": "18999576d7a26146bf16c51dd058e6f096",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_Shroud_Headset.chroma",
+      "FileSize": 970
+    },
+    {
+      "MD5Chunks": "187d54bd598888fda421797e9e309db4ca",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_Shroud_Keyboard.chroma",
+      "FileSize": 12246
+    },
+    {
+      "MD5Chunks": "189aed637e16e4c0c7cf3f6d6d421356f7",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_Shroud_Mouse.chroma",
+      "FileSize": 10250
+    },
+    {
+      "MD5Chunks": "1819946a4c1bbb20b5cef9a46311226308",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_Shroud_Mousepad.chroma",
+      "FileSize": 2570
+    },
+    {
+      "MD5Chunks": "18f8e19a4ea50b518db99bf75e23faaac3",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_Whiteout_ChromaLink.chroma",
+      "FileSize": 250
+    },
+    {
+      "MD5Chunks": "18f40462f29a1722cf07475e84e5687034",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_Whiteout_Headset.chroma",
+      "FileSize": 250
+    },
+    {
+      "MD5Chunks": "18108da6591ccffaf9638e4254077f7c3e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_Whiteout_Keyboard.chroma",
+      "FileSize": 4266
+    },
+    {
+      "MD5Chunks": "18af0e831e332c454cd5a52d94069daefc",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_Whiteout_Mouse.chroma",
+      "FileSize": 2570
+    },
+    {
+      "MD5Chunks": "186388d3d26e03f2a3bc57e7f652b19834",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Traps_Whiteout_Mousepad.chroma",
+      "FileSize": 650
+    },
+    {
+      "MD5Chunks": "18b45f6f532b5410810887c9f6ccc051f4",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Axe_PowerActive_ChromaLink.chroma",
+      "FileSize": 490
+    },
+    {
+      "MD5Chunks": "189767143b1469385d5d6b6f5a5cc005fc",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Axe_PowerActive_Headset.chroma",
+      "FileSize": 490
+    },
+    {
+      "MD5Chunks": "180d0654fe5d2871ca96207b834cdcea1c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Axe_PowerActive_Keyboard.chroma",
+      "FileSize": 10650
+    },
+    {
+      "MD5Chunks": "18c2a5972a051ae2819e0df034dec3e06d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Axe_PowerActive_Mouse.chroma",
+      "FileSize": 5130
+    },
+    {
+      "MD5Chunks": "188a47e8536592211873da38b69c09e828",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Axe_PowerActive_Mousepad.chroma",
+      "FileSize": 1290
+    },
+    {
+      "MD5Chunks": "18f3801d6712ea545287b2c68c420142b6",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Repeaters_Empowered_ChromaLink.chroma",
+      "FileSize": 34
+    },
+    {
+      "MD5Chunks": "181f5e154af0b6cc4bc183ce32ecf1408c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Repeaters_Empowered_Headset.chroma",
+      "FileSize": 34
+    },
+    {
+      "MD5Chunks": "18afb6a4000e4ee04a3c6008da474759ef",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Repeaters_Empowered_Keyboard.chroma",
+      "FileSize": 53210
+    },
+    {
+      "MD5Chunks": "1821f3f4fc5bfcbf5dd2aecab8dcb31b7d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Repeaters_Empowered_Mouse.chroma",
+      "FileSize": 266
+    },
+    {
+      "MD5Chunks": "18bc35c6abce171351e066bc067b8bdc7e",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Repeaters_Empowered_Mousepad.chroma",
+      "FileSize": 74
+    },
+    {
+      "MD5Chunks": "18e6b0723c9137abf8b0eb7b56ef723efb",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Repeaters_SecondaryFire_ChromaLink.chroma",
+      "FileSize": 154
+    },
+    {
+      "MD5Chunks": "18468d0402934fdfb292f2988e41c42724",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Repeaters_SecondaryFire_Headset.chroma",
+      "FileSize": 154
+    },
+    {
+      "MD5Chunks": "1843206855ffcd05a8ec93f2188a9f9127",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Repeaters_SecondaryFire_Keyboard.chroma",
+      "FileSize": 26610
+    },
+    {
+      "MD5Chunks": "18200f81ec93fddb498828a16000a92e90",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Repeaters_SecondaryFire_Mouse.chroma",
+      "FileSize": 2058
+    },
+    {
+      "MD5Chunks": "18c23007cdb5f43fd44d2c477b7f3b8854",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Repeaters_SecondaryFire_Mousepad.chroma",
+      "FileSize": 1034
+    },
+    {
+      "MD5Chunks": "18edf704534081fbe028caa4a96e9a708a",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Warpike_Shot_ChromaLink.chroma",
+      "FileSize": 154
+    },
+    {
+      "MD5Chunks": "18435b5e9c7683dd972c734300daa0667c",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Warpike_Shot_Headset.chroma",
+      "FileSize": 154
+    },
+    {
+      "MD5Chunks": "18425fcbafae75448d2b8b9588ef8faf73",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Warpike_Shot_Keyboard.chroma",
+      "FileSize": 26610
+    },
+    {
+      "MD5Chunks": "18894216dfa50c830f95c3d49c672026b1",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Warpike_Shot_Mouse.chroma",
+      "FileSize": 2058
+    },
+    {
+      "MD5Chunks": "186496497cc33a6dfe0aea4a60c7926e83",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Content\\ThirdParty\\ChromaEffects\\Wpn_Warpike_Shot_Mousepad.chroma",
+      "FileSize": 1034
+    },
+    {
+      "MD5Chunks": "18a6cc25ac7063bec95fcf8d96d7744d70",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Plugins\\VivoxCoreUE4Plugin\\Source\\ThirdParty\\VivoxCoreLibrary\\Windows\\x64\\Release\\ortp.dll",
+      "FileSize": 221312
+    },
+    {
+      "MD5Chunks": "1892add787f575f7487f29d637c115474d",
+      "IsSelfSource": true,
+      "RelativePath": "Archon\\Plugins\\VivoxCoreUE4Plugin\\Source\\ThirdParty\\VivoxCoreLibrary\\Windows\\x64\\Release\\vivoxsdk.dll",
+      "FileSize": 4296832
+    },
+    {
+      "MD5Chunks": "1845ac218b27ee161ccc44e19580535560",
+      "IsSelfSource": true,
+      "RelativePath": "Dauntless.exe",
+      "FileSize": 1468032
+    },
+    {
+      "MD5Chunks": "1889517e5a0b79b4f345bbb14adb09bb18",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Certificates\\game.bin",
+      "FileSize": 189797
+    },
+    {
+      "MD5Chunks": "184512c3b7ca1c43541b520c83065dd8f0",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Certificates\\game.cer",
+      "FileSize": 1340
+    },
+    {
+      "MD5Chunks": "18d1d7a3e2d0b0764a249a50d3bfe5b071",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\EasyAntiCheat_Setup.exe",
+      "FileSize": 818304
+    },
+    {
+      "MD5Chunks": "181644aac306b1c59ed28af362ab699625",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\EasyAntiCheat_x64.dll",
+      "FileSize": 802944
+    },
+    {
+      "MD5Chunks": "18ebac7db10b33591c25e54fd3d8589316",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\EasyAntiCheat_x86.dll",
+      "FileSize": 686208
+    },
+    {
+      "MD5Chunks": "18ed8c7def1013cfac24ea1cc6aeb0946f",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Launcher\\Settings.json",
+      "FileSize": 376
+    },
+    {
+      "MD5Chunks": "18d79dc79075ca4388cc435d432d2e59b7",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Launcher\\SplashScreen.png",
+      "FileSize": 15116
+    },
+    {
+      "MD5Chunks": "18d273d63619c9aeaf15cdaf76422c4f87",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Licenses\\Apache-2.0.txt",
+      "FileSize": 11560
+    },
+    {
+      "MD5Chunks": "18b259769e79fb258a5242b2c6be61aa32",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Licenses\\CCO-1.0.txt",
+      "FileSize": 997
+    },
+    {
+      "MD5Chunks": "18b0d181292c99cf9bb2ae9166dd3a0239",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Licenses\\LGPL-2.1.txt",
+      "FileSize": 27032
+    },
+    {
+      "MD5Chunks": "18a90c1cfd2c53e1cd31060eccf0594f30",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Licenses\\Licenses.txt",
+      "FileSize": 17579
+    },
+    {
+      "MD5Chunks": "18454c717340dda8adbbedc34f39fa7d40",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Licenses\\MIT.txt",
+      "FileSize": 1093
+    },
+    {
+      "MD5Chunks": "1809d4682f78d0bebd532527581873d8d2",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\ar_sa.cfg",
+      "FileSize": 9424
+    },
+    {
+      "MD5Chunks": "18199bef0e74ce01e3d2c9092d3c59e7a7",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\cs_cz.cfg",
+      "FileSize": 8321
+    },
+    {
+      "MD5Chunks": "1884c09e2153f945f066059fa53ac4bfa9",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\de_de.cfg",
+      "FileSize": 8217
+    },
+    {
+      "MD5Chunks": "1890a1f9f1f7d89968353dd762c6bcce6e",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\en_us.cfg",
+      "FileSize": 7875
+    },
+    {
+      "MD5Chunks": "1893db63b8a8ccbf6d00069cb712bb3bf8",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\es_ar.cfg",
+      "FileSize": 8417
+    },
+    {
+      "MD5Chunks": "185cca44a7be568c10092d2ffb4fed5118",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\es_es.cfg",
+      "FileSize": 8432
+    },
+    {
+      "MD5Chunks": "1870b02298a283538e6cc9f4b6c415ace5",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\fr_fr.cfg",
+      "FileSize": 8451
+    },
+    {
+      "MD5Chunks": "18d0b5a75a12d2eb0fdef2d49db8d5102e",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\it_it.cfg",
+      "FileSize": 7958
+    },
+    {
+      "MD5Chunks": "18a53173c3b72c1aca3a6b2f20e5614844",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\ja_ja.cfg",
+      "FileSize": 9706
+    },
+    {
+      "MD5Chunks": "18808e1487e705e8c4d0c520c522dfb609",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\ko_kr.cfg",
+      "FileSize": 8579
+    },
+    {
+      "MD5Chunks": "188e202be7897f246feb3463eb60f781f3",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\nl_nl.cfg",
+      "FileSize": 7895
+    },
+    {
+      "MD5Chunks": "1833888197d9b95783cf5d09e6d69fbd1f",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\pl_pl.cfg",
+      "FileSize": 8397
+    },
+    {
+      "MD5Chunks": "18c6ad41337918d5b82f089f6b6871178c",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\pt_br.cfg",
+      "FileSize": 8217
+    },
+    {
+      "MD5Chunks": "18b6054353f99b3562ee92473b9eb8af66",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\ru_ru.cfg",
+      "FileSize": 11160
+    },
+    {
+      "MD5Chunks": "18f275121a09517a647108a5b49c42d07c",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\th_th.cfg",
+      "FileSize": 13761
+    },
+    {
+      "MD5Chunks": "187b2ef4ab94aec181040bebcfef38214f",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\tr_tr.cfg",
+      "FileSize": 7813
+    },
+    {
+      "MD5Chunks": "18f05fdbe60bcea019b177cc77a4c2ad5f",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\zh_cn.cfg",
+      "FileSize": 7120
+    },
+    {
+      "MD5Chunks": "18abe0abaff56e8e9255c479119a1e6627",
+      "IsSelfSource": true,
+      "RelativePath": "EasyAntiCheat\\Localization\\zh_tw.cfg",
+      "FileSize": 7103
+    },
+    {
+      "MD5Chunks": "18ec19fec32add42b4d23971bf0f053ff9",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\ChromiumEmbeddedFramework.tps",
+      "FileSize": 277
+    },
+    {
+      "MD5Chunks": "187544a8c1e8b0526d7ab95a300d34a7e4",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\chrome_elf.dll",
+      "FileSize": 554096
+    },
+    {
+      "MD5Chunks": "181c9b45e87528b8bb8cfa884ea0099a85",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\d3dcompiler_43.dll",
+      "FileSize": 2106216
+    },
+    {
+      "MD5Chunks": "18a7675ddea31dbacd14cc6e9199f7641f",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\d3dcompiler_47.dll",
+      "FileSize": 4488904
+    },
+    {
+      "MD5Chunks": "18bc7f54e4df91c9137dced27976228b66",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\icudtl.dat",
+      "FileSize": 10130560
+    },
+    {
+      "MD5Chunks": "182a4da21145ca55e5bf1f050e6aca773fec2272119f26ff2b2fff3710b37348adf6dc1dfea96dab449f29d957f28e372ee05af4e3ee7a063298eeb45bcd3bba56273c370d287b7e3d3df18173c0fe48816d206e7f731e7a988cb2fb3c44b5c8d2",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libcef.dll",
+      "FileSize": 98281584
+    },
+    {
+      "MD5Chunks": "18b289a38cf900c5217cb44b211631fe9e",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libEGL.dll",
+      "FileSize": 98928
+    },
+    {
+      "MD5Chunks": "182df402ba61857eb68895d0787400c17a",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libGLESv2.dll",
+      "FileSize": 3928688
+    },
+    {
+      "MD5Chunks": "1894855c31f6c24656a6d67ceae0b04cca",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\natives_blob.bin",
+      "FileSize": 246209
+    },
+    {
+      "MD5Chunks": "181a909a4e490c1121c0e01c94be4d8c77",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef.pak",
+      "FileSize": 6003861
+    },
+    {
+      "MD5Chunks": "18353041a41d9da52ffefcc37c89dbb83b",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_100_percent.pak",
+      "FileSize": 279905
+    },
+    {
+      "MD5Chunks": "1878cf51888cf52a0f6131e948b2385c62",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_200_percent.pak",
+      "FileSize": 386884
+    },
+    {
+      "MD5Chunks": "1803e4b627d65ccca6b810b99ef86dc88f",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_extensions.pak",
+      "FileSize": 3565138
+    },
+    {
+      "MD5Chunks": "1875885f20b96687eb1a91905da87397dd",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\devtools_resources.pak",
+      "FileSize": 5183550
+    },
+    {
+      "MD5Chunks": "18df0db5ceaee6af95c163b3bd22efabc4",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\am.pak",
+      "FileSize": 317735
+    },
+    {
+      "MD5Chunks": "1822299027a8a31c24a2f667f218163621",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ar.pak",
+      "FileSize": 314031
+    },
+    {
+      "MD5Chunks": "18f6d256329b24a73d131a442fe1bdcd05",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bg.pak",
+      "FileSize": 366595
+    },
+    {
+      "MD5Chunks": "1837b37cdc6136fc8a0f5232bcaae9443e",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bn.pak",
+      "FileSize": 478939
+    },
+    {
+      "MD5Chunks": "1898c2430f86321e05ffa21fb5de8e0823",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ca.pak",
+      "FileSize": 228122
+    },
+    {
+      "MD5Chunks": "18ba68d98c5741feea3a2a8b3062e6b33c",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\cs.pak",
+      "FileSize": 231572
+    },
+    {
+      "MD5Chunks": "1862593b1c724fa2f7909683676e517ee5",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\da.pak",
+      "FileSize": 207739
+    },
+    {
+      "MD5Chunks": "1887f8df5088cf2e324e0b50a788e41b1e",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\de.pak",
+      "FileSize": 226211
+    },
+    {
+      "MD5Chunks": "1837f2d16ff1e6423fe6c93bb5f3704f78",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\el.pak",
+      "FileSize": 402687
+    },
+    {
+      "MD5Chunks": "18af1aee16186d1f5b808fea62788ba65b",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-GB.pak",
+      "FileSize": 186958
+    },
+    {
+      "MD5Chunks": "1832a7083e4afed6cbdd87489bf00fb72e",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-US.pak",
+      "FileSize": 186991
+    },
+    {
+      "MD5Chunks": "189a6a00edf4f4aebe264335d32dfbdd5a",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es.pak",
+      "FileSize": 228808
+    },
+    {
+      "MD5Chunks": "183a5e07e83ab696325194fda667f40adb",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es-419.pak",
+      "FileSize": 224532
+    },
+    {
+      "MD5Chunks": "18b706ebcee9553e038b82479edccf4165",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\et.pak",
+      "FileSize": 202214
+    },
+    {
+      "MD5Chunks": "18d208ba29eb26f7325f7f055b4e6f3ba0",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fa.pak",
+      "FileSize": 321134
+    },
+    {
+      "MD5Chunks": "18cd2443564cb7216f3a52578c76e83c80",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fi.pak",
+      "FileSize": 211980
+    },
+    {
+      "MD5Chunks": "18ecdd6b5ebe2bd4c7e40a637ebc00f363",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fil.pak",
+      "FileSize": 232070
+    },
+    {
+      "MD5Chunks": "18a0fb5f9fa4237ffcd73fb9a0b75df93f",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fr.pak",
+      "FileSize": 243625
+    },
+    {
+      "MD5Chunks": "18af47fe7576ef7f957a3dad4c2dbee25e",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\gu.pak",
+      "FileSize": 451818
+    },
+    {
+      "MD5Chunks": "189b57b3e79446429691b04c848443ec1f",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\he.pak",
+      "FileSize": 265463
+    },
+    {
+      "MD5Chunks": "1848dcfd6dbb6054b00f2eaaa98eb2854d",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hi.pak",
+      "FileSize": 460810
+    },
+    {
+      "MD5Chunks": "187803ed6631f55e56209a5a82e2c63e9e",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hr.pak",
+      "FileSize": 217428
+    },
+    {
+      "MD5Chunks": "18fe1a0fdb4f2102b21306ab175ad07d74",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hu.pak",
+      "FileSize": 239083
+    },
+    {
+      "MD5Chunks": "184b8cbfcd0cc3cbd95b46ff927e17d3cc",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\id.pak",
+      "FileSize": 201977
+    },
+    {
+      "MD5Chunks": "18814924c80224d39186d32d876c38a930",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\it.pak",
+      "FileSize": 220397
+    },
+    {
+      "MD5Chunks": "1849158449aedda1f3b020b5557ac0cf9a",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ja.pak",
+      "FileSize": 270807
+    },
+    {
+      "MD5Chunks": "188bff968d6f06d429759675eb278fee83",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\kn.pak",
+      "FileSize": 519415
+    },
+    {
+      "MD5Chunks": "180a73db278ddb5abcbe43ad4066bf239b",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ko.pak",
+      "FileSize": 230850
+    },
+    {
+      "MD5Chunks": "184a8f1111461833ba54bbf9a2c06d4896",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lt.pak",
+      "FileSize": 234416
+    },
+    {
+      "MD5Chunks": "187c763171bdde1a6a8358180ed585034e",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lv.pak",
+      "FileSize": 234204
+    },
+    {
+      "MD5Chunks": "1802809db4176d1a0819562a0c9707b893",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ml.pak",
+      "FileSize": 567612
+    },
+    {
+      "MD5Chunks": "18ce0b8d9a5d379aeef89f4755e283a273",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\mr.pak",
+      "FileSize": 456368
+    },
+    {
+      "MD5Chunks": "1896477cd1228bb45f0597c079492fdace",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ms.pak",
+      "FileSize": 208619
+    },
+    {
+      "MD5Chunks": "1806b059219b57a339f6f324b2ca16ed78",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nb.pak",
+      "FileSize": 205047
+    },
+    {
+      "MD5Chunks": "18b199dfcb09fbbc226c07b4091d654669",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nl.pak",
+      "FileSize": 215699
+    },
+    {
+      "MD5Chunks": "189d831f342acb5ec998ba9a7368239759",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pl.pak",
+      "FileSize": 225555
+    },
+    {
+      "MD5Chunks": "186d7bca559226543213e0bb122efd95d6",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-BR.pak",
+      "FileSize": 221133
+    },
+    {
+      "MD5Chunks": "18fa370bc586055c3f9c518af9d0070e5c",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-PT.pak",
+      "FileSize": 223472
+    },
+    {
+      "MD5Chunks": "1800199374b56500de5d89bcb1eaf9bca0",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ro.pak",
+      "FileSize": 229091
+    },
+    {
+      "MD5Chunks": "18531b7ab45701c376fbb35d09b641c386",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ru.pak",
+      "FileSize": 351003
+    },
+    {
+      "MD5Chunks": "1836fd894c0d958c754b5544754cb74af8",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sk.pak",
+      "FileSize": 237218
+    },
+    {
+      "MD5Chunks": "18aa47507900c5c6a12074e6b928f8f5eb",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sl.pak",
+      "FileSize": 217919
+    },
+    {
+      "MD5Chunks": "18f87c694d5d45e2fce3640d7f10d58f1f",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sr.pak",
+      "FileSize": 341731
+    },
+    {
+      "MD5Chunks": "18536462c950527c7a68b4bdca15feaed9",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sv.pak",
+      "FileSize": 206145
+    },
+    {
+      "MD5Chunks": "18c55b06f4e9b461803bb768a6ffa9100a",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sw.pak",
+      "FileSize": 209319
+    },
+    {
+      "MD5Chunks": "185885c004fc8bb9a138f5ebdaf2601b2f",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ta.pak",
+      "FileSize": 527387
+    },
+    {
+      "MD5Chunks": "1895479ec9ff43dae880acae39f8c9b710",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\te.pak",
+      "FileSize": 503299
+    },
+    {
+      "MD5Chunks": "18841f0db1bd81e44ee9825d1d56d34d8a",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\th.pak",
+      "FileSize": 438108
+    },
+    {
+      "MD5Chunks": "18050b25ecc7718e55e3fcec5a7b239d7d",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\tr.pak",
+      "FileSize": 221774
+    },
+    {
+      "MD5Chunks": "183fc1f166ec7c2efa83ef153ad584b78f",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\uk.pak",
+      "FileSize": 358245
+    },
+    {
+      "MD5Chunks": "18fd23fb189a14b3f9e5dc25d84d6af873",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\vi.pak",
+      "FileSize": 254300
+    },
+    {
+      "MD5Chunks": "18889d29f0d68c8bab9ebf2c7426f3613a",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-CN.pak",
+      "FileSize": 190714
+    },
+    {
+      "MD5Chunks": "1859cb5352e750cb44a07eae223f30c3c9",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-TW.pak",
+      "FileSize": 192079
+    },
+    {
+      "MD5Chunks": "18dfb3f71057e263620565783f9f676fb4",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\snapshot_blob.bin",
+      "FileSize": 1562112
+    },
+    {
+      "MD5Chunks": "18071948123bd57df23d022df37c4dae8c",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\widevinecdmadapter.dll",
+      "FileSize": 281712
+    },
+    {
+      "MD5Chunks": "1815ee5c7404fa5b6de0eb0c042474d3bf",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\DbgHelp\\dbghelp.dll",
+      "FileSize": 1369936
+    },
+    {
+      "MD5Chunks": "187e01bb748953f514f108f6e9c4c6fede",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll",
+      "FileSize": 124016
+    },
+    {
+      "MD5Chunks": "185143ec2d887c6658b724b18ea843aef0",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll",
+      "FileSize": 55408
+    },
+    {
+      "MD5Chunks": "18e7ef17cd78386b26cd7ffc0498cc55e6",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Clothing_x64.dll",
+      "FileSize": 1225328
+    },
+    {
+      "MD5Chunks": "1844a493a8b24c29e82c189aadc4af8e83",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Destructible_x64.dll",
+      "FileSize": 2015856
+    },
+    {
+      "MD5Chunks": "18c5793a937efa6be6b85c0821003a8048",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Legacy_x64.dll",
+      "FileSize": 3335792
+    },
+    {
+      "MD5Chunks": "18a45fbb3281a85ce51e183f8bf4a5c021",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\ApexFramework_x64.dll",
+      "FileSize": 1050224
+    },
+    {
+      "MD5Chunks": "1824d3f82e067a5ced771f0d47cd892c9d",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\NvCloth_x64.dll",
+      "FileSize": 271984
+    },
+    {
+      "MD5Chunks": "18782803d20d3bfc6c04a2cef00e9da318",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3_x64.dll",
+      "FileSize": 2111600
+    },
+    {
+      "MD5Chunks": "18dc36981703f45210124f3033f752b021",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Common_x64.dll",
+      "FileSize": 1605232
+    },
+    {
+      "MD5Chunks": "1877807ceb5427b719866d39229439f12d",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Cooking_x64.dll",
+      "FileSize": 250992
+    },
+    {
+      "MD5Chunks": "1853133a62940e8fb0cb825d40fec4363d",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxFoundation_x64.dll",
+      "FileSize": 61040
+    },
+    {
+      "MD5Chunks": "18aaaa580ddadef3793b6f63960b07c5a0",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxPvdSDK_x64.dll",
+      "FileSize": 195184
+    },
+    {
+      "MD5Chunks": "183d5f1b759e8bbd3b8fae2c5b77f3a2d5",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll",
+      "FileSize": 1720432
+    },
+    {
+      "MD5Chunks": "187a414e3c96ede543bce412c00614a446",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll",
+      "FileSize": 44144
+    },
+    {
+      "MD5Chunks": "18835591acabfb69a6f9dace12711f2243",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\ThirdParty\\Windows\\XAudio2_9\\x64\\xaudio2_9redist.dll",
+      "FileSize": 847440
+    },
+    {
+      "MD5Chunks": "18e2b9a7377a936614cfb235808e60b222373b3ade4a4d1834c683985399648891",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\Win64\\CrashReportClient.exe",
+      "FileSize": 18583152
+    },
+    {
+      "MD5Chunks": "185bfb1bfb9315633cfaa60e2473772745",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\Win64\\dbgcore.dll",
+      "FileSize": 166720
+    },
+    {
+      "MD5Chunks": "1860c8228271185b7ccb073db3f4de5949",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\Win64\\dbgeng.dll",
+      "FileSize": 6210368
+    },
+    {
+      "MD5Chunks": "18c40c0830ff3a61c564eb13304b6c55c2",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\Win64\\dbghelp.dll",
+      "FileSize": 1643840
+    },
+    {
+      "MD5Chunks": "186b74085f3e77027f1a91c5d7ad52985a",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Binaries\\Win64\\UnrealCEFSubProcess.exe",
+      "FileSize": 3699824
+    },
+    {
+      "MD5Chunks": "18e15c3c2ad82c41935c7ab27b76e58964",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Content\\SlateDebug\\Fonts\\LastResort.tps",
+      "FileSize": 930
+    },
+    {
+      "MD5Chunks": "1889454f173319872a5fa975b26d028f9d",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Content\\SlateDebug\\Fonts\\LastResort.ttf",
+      "FileSize": 5395052
+    },
+    {
+      "MD5Chunks": "18b102a842bb2b148164ac27e66254d8ed",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\OWGameEvents\\Source\\ThirdParty\\OWGameEventsLibrary\\x64\\Release\\libowgameevents.dll",
+      "FileSize": 224072
+    },
+    {
+      "MD5Chunks": "181a1d9a4a66e9569dc6eb15470824d8c5",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkAudioInput.dll",
+      "FileSize": 107632
+    },
+    {
+      "MD5Chunks": "18839c1c84e661cbb3b23e9171a3163a2c",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkCompressor.dll",
+      "FileSize": 110704
+    },
+    {
+      "MD5Chunks": "1856effa2cee69b27bde3d9a636552dbea",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkConvolutionReverb.dll",
+      "FileSize": 156272
+    },
+    {
+      "MD5Chunks": "18d761fad869cd6eda342d8851431c3444",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkDelay.dll",
+      "FileSize": 112240
+    },
+    {
+      "MD5Chunks": "18187d686c173637931bd8b8c760e91532",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkExpander.dll",
+      "FileSize": 112752
+    },
+    {
+      "MD5Chunks": "18379f83da2cffec86e39877a8ffc0af62",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkFlanger.dll",
+      "FileSize": 134256
+    },
+    {
+      "MD5Chunks": "18381daa67162c41f97ed6f16bbab3c765",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkGain.dll",
+      "FileSize": 107632
+    },
+    {
+      "MD5Chunks": "183a19d1abf084bf11c715f5cc55757286",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkGuitarDistortion.dll",
+      "FileSize": 136816
+    },
+    {
+      "MD5Chunks": "1851878f2b327703aab09896e54d7ef808",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkHarmonizer.dll",
+      "FileSize": 164464
+    },
+    {
+      "MD5Chunks": "182ae3b370f5063bbf5f1cc139578c2ccf",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkMatrixReverb.dll",
+      "FileSize": 173680
+    },
+    {
+      "MD5Chunks": "18dd34791e77639faf718c9b0a1af91032",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkParametricEQ.dll",
+      "FileSize": 126576
+    },
+    {
+      "MD5Chunks": "180e6202c0e55daf6eb20539ea8dfbcc1c",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkPeakLimiter.dll",
+      "FileSize": 114800
+    },
+    {
+      "MD5Chunks": "18f2d76c0b3a8432abd62f39e9e6130b8f",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkPitchShifter.dll",
+      "FileSize": 132208
+    },
+    {
+      "MD5Chunks": "18f5049154c0d11c8386a78898cf05bf28",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkRecorder.dll",
+      "FileSize": 107632
+    },
+    {
+      "MD5Chunks": "18737424dcbd8593407ce5b6304860a5b4",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkRoomVerb.dll",
+      "FileSize": 221296
+    },
+    {
+      "MD5Chunks": "181fadd639667949516d6fc42d45e8a7bd",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkSilenceGenerator.dll",
+      "FileSize": 98416
+    },
+    {
+      "MD5Chunks": "18b4099915149283305300771184b3343f",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkSineTone.dll",
+      "FileSize": 107120
+    },
+    {
+      "MD5Chunks": "1862e93c0b7fde122d716652364b79a05e",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkSoundEngineDLL.dll",
+      "FileSize": 1491568
+    },
+    {
+      "MD5Chunks": "186fec6d3d2b606139e22979d5fb0c11cd",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkStereoDelay.dll",
+      "FileSize": 138352
+    },
+    {
+      "MD5Chunks": "18455a1fa88e161f9b48b692a69c36c1e1",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkSynthOne.dll",
+      "FileSize": 145008
+    },
+    {
+      "MD5Chunks": "181988addf39d1a070c711438cf5f4b473",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkTimeStretch.dll",
+      "FileSize": 139888
+    },
+    {
+      "MD5Chunks": "1847ba0a5e5c94f7272241d2be957c6fde",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkToneGen.dll",
+      "FileSize": 127600
+    },
+    {
+      "MD5Chunks": "18b7e62292bfc95749a19a2e626e32a486",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Plugins\\Wwise\\ThirdParty\\x64_vc150\\Release\\bin\\AkTremolo.dll",
+      "FileSize": 132720
+    },
+    {
+      "MD5Chunks": "1852d0c8510a020d8a97a67fd1a651d6c46db5f27519023a70951f6363916b9ccf",
+      "IsSelfSource": true,
+      "RelativePath": "Engine\\Programs\\CrashReportClient\\Content\\Paks\\CrashReportClient.pak",
+      "FileSize": 21387626
+    },
+    {
+      "MD5Chunks": "1816424996c8d83b4d870234e792fffa04",
+      "IsSelfSource": true,
+      "RelativePath": "Features.json",
+      "FileSize": 37419
+    },
+    {
+      "MD5Chunks": "18886f6a2ca6ac696ca34072cf64dd399a",
+      "IsSelfSource": true,
+      "RelativePath": "Version.txt",
+      "FileSize": 58
+    }
+  ],
+  "DeployedPaths": [
+    "**"
+  ]
+}
